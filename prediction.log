@@ -1,0 +1,1503 @@
+2024-05-18 16:30:48,075  * Debugger is active!
+2024-05-18 16:30:48,078  * Debugger PIN: 247-628-947
+2024-05-18 16:30:55,263 Error: No data found in counts_products_collection matching the query
+2024-05-18 16:30:55,264 127.0.0.1 - - [18/May/2024 16:30:55] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-18 16:32:17,401  * Detected change in 'C:\\Users\\Admin\\Desktop\\ML_predict\\app.py', reloading
+2024-05-18 16:32:19,423  * Debugger is active!
+2024-05-18 16:32:19,429  * Debugger PIN: 247-628-947
+2024-05-18 16:32:31,388 Error: No data found in counts_products_collection matching the query
+2024-05-18 16:32:31,392 127.0.0.1 - - [18/May/2024 16:32:31] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-18 16:33:47,606  * Detected change in 'C:\\Users\\Admin\\Desktop\\ML_predict\\app.py', reloading
+2024-05-18 16:33:49,562  * Debugger is active!
+2024-05-18 16:33:49,566  * Debugger PIN: 247-628-947
+2024-05-18 16:33:58,132 Error: 'numpy.ndarray' object has no attribute 'predict'
+2024-05-18 16:33:58,132 127.0.0.1 - - [18/May/2024 16:33:58] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-18 16:36:56,414  * Detected change in 'C:\\Users\\Admin\\Desktop\\ML_predict\\train_model.py', reloading
+2024-05-18 16:36:58,464  * Debugger is active!
+2024-05-18 16:36:58,468  * Debugger PIN: 247-628-947
+2024-05-18 16:37:28,414  * Detected change in 'C:\\Users\\Admin\\Desktop\\ML_predict\\train_model.py', reloading
+2024-05-18 16:37:30,313  * Debugger is active!
+2024-05-18 16:37:30,316  * Debugger PIN: 247-628-947
+2024-05-18 16:40:04,419 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-18 16:40:04,420 [33mPress CTRL+C to quit[0m
+2024-05-18 16:40:04,421  * Restarting with stat
+2024-05-18 16:40:05,772  * Debugger is active!
+2024-05-18 16:40:05,776  * Debugger PIN: 247-628-947
+2024-05-18 16:40:27,936 Error: X has 19 features, but GradientBoostingRegressor is expecting 4 features as input.
+2024-05-18 16:40:27,936 127.0.0.1 - - [18/May/2024 16:40:27] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-18 16:43:31,379  * Detected change in 'C:\\Users\\Admin\\Desktop\\ML_predict\\app.py', reloading
+2024-05-18 16:43:31,720  * Restarting with stat
+2024-05-18 16:43:33,033  * Debugger is active!
+2024-05-18 16:43:33,036  * Debugger PIN: 247-628-947
+2024-05-18 16:49:10,641 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-18 16:49:10,641 [33mPress CTRL+C to quit[0m
+2024-05-18 16:49:10,642  * Restarting with stat
+2024-05-18 16:49:11,989  * Debugger is active!
+2024-05-18 16:49:11,992  * Debugger PIN: 247-628-947
+2024-05-18 16:49:26,618 Error: X has 19 features, but GradientBoostingRegressor is expecting 4 features as input.
+2024-05-18 16:49:26,618 127.0.0.1 - - [18/May/2024 16:49:26] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-18 16:52:29,148  * Detected change in 'C:\\Users\\Admin\\Desktop\\ML_predict\\app.py', reloading
+2024-05-18 16:52:29,754  * Restarting with stat
+2024-05-18 16:52:31,141  * Debugger is active!
+2024-05-18 16:52:31,145  * Debugger PIN: 247-628-947
+2024-05-18 16:53:00,660 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-18 16:53:00,660 [33mPress CTRL+C to quit[0m
+2024-05-18 16:53:00,661  * Restarting with stat
+2024-05-18 16:53:01,998  * Debugger is active!
+2024-05-18 16:53:02,002  * Debugger PIN: 247-628-947
+2024-05-18 16:53:10,479 Error: X has 19 features, but GradientBoostingRegressor is expecting 4 features as input.
+2024-05-18 16:53:10,480 127.0.0.1 - - [18/May/2024 16:53:10] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-18 17:11:48,545 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-18 17:11:48,545 [33mPress CTRL+C to quit[0m
+2024-05-18 17:11:48,546  * Restarting with stat
+2024-05-18 17:11:49,796  * Debugger is active!
+2024-05-18 17:11:49,799  * Debugger PIN: 247-628-947
+2024-05-18 17:14:26,375 Prediction: 40.1337563833661
+2024-05-18 17:14:26,375 127.0.0.1 - - [18/May/2024 17:14:26] "POST /predict HTTP/1.1" 200 -
+2024-05-18 17:18:48,472  * Detected change in 'C:\\Users\\Admin\\Desktop\\ML_predict\\app.py', reloading
+2024-05-18 17:18:48,794  * Restarting with stat
+2024-05-18 17:18:50,116  * Debugger is active!
+2024-05-18 17:18:50,119  * Debugger PIN: 247-628-947
+2024-05-18 17:18:57,879 Prediction: 40
+2024-05-18 17:18:57,879 127.0.0.1 - - [18/May/2024 17:18:57] "POST /predict HTTP/1.1" 200 -
+2024-05-18 17:31:05,450  * Detected change in 'C:\\Users\\Admin\\Desktop\\ML_predict\\app.py', reloading
+2024-05-18 17:31:06,085  * Restarting with stat
+2024-05-18 17:31:07,323  * Debugger is active!
+2024-05-18 17:31:07,326  * Debugger PIN: 247-628-947
+2024-05-18 17:31:20,430 Prediction: 39
+2024-05-18 17:31:20,430 127.0.0.1 - - [18/May/2024 17:31:20] "POST /predict_Cocoglass HTTP/1.1" 200 -
+2024-05-18 18:53:59,650  * Detected change in 'C:\\Users\\Admin\\Desktop\\ML_predict\\app.py', reloading
+2024-05-18 18:54:00,129  * Restarting with stat
+2024-05-18 18:54:02,177  * Debugger is active!
+2024-05-18 18:54:02,181  * Debugger PIN: 247-628-947
+2024-05-18 18:54:14,249 Prediction: 34 for Product_ID 1
+2024-05-18 18:54:14,737 Prediction: 6 for Product_ID 2
+2024-05-18 18:54:15,221 Prediction: 0 for Product_ID 3
+2024-05-18 18:54:15,714 Prediction: 5 for Product_ID 4
+2024-05-18 18:54:16,175 Prediction: 1 for Product_ID 6
+2024-05-18 18:54:16,686 Prediction: 0 for Product_ID 10
+2024-05-18 18:54:17,172 Prediction: 3 for Product_ID 14
+2024-05-18 18:54:17,902 Prediction: 1 for Product_ID 15
+2024-05-18 18:54:18,595 Prediction: 0 for Product_ID 16
+2024-05-18 18:54:18,596 127.0.0.1 - - [18/May/2024 18:54:18] "POST /predict HTTP/1.1" 200 -
+2024-05-18 20:00:00,732 Prediction: 34 for Product_ID 1
+2024-05-18 20:00:01,328 Prediction: 7 for Product_ID 2
+2024-05-18 20:00:07,888 Prediction: 0 for Product_ID 3
+2024-05-18 20:00:08,659 Prediction: 1 for Product_ID 4
+2024-05-18 20:00:09,179 Prediction: 1 for Product_ID 6
+2024-05-18 20:00:09,887 Prediction: 0 for Product_ID 10
+2024-05-18 20:00:10,368 Prediction: 3 for Product_ID 14
+2024-05-18 20:00:10,890 Prediction: 1 for Product_ID 15
+2024-05-18 20:00:11,414 Prediction: 0 for Product_ID 16
+2024-05-18 20:00:11,415 127.0.0.1 - - [18/May/2024 20:00:11] "POST /predict HTTP/1.1" 200 -
+2024-05-18 22:03:20,037 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-18 22:03:20,038 [33mPress CTRL+C to quit[0m
+2024-05-18 22:03:20,039  * Restarting with stat
+2024-05-18 22:03:21,525  * Debugger is active!
+2024-05-18 22:03:21,529  * Debugger PIN: 247-628-947
+2024-05-18 22:04:03,178 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-18 22:04:03,178 [33mPress CTRL+C to quit[0m
+2024-05-18 22:04:03,180  * Restarting with stat
+2024-05-18 22:04:04,623  * Debugger is active!
+2024-05-18 22:04:04,627  * Debugger PIN: 247-628-947
+2024-05-18 22:11:09,400 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-18 22:11:09,400 [33mPress CTRL+C to quit[0m
+2024-05-18 22:11:09,401  * Restarting with stat
+2024-05-18 22:11:10,845  * Debugger is active!
+2024-05-18 22:11:10,849  * Debugger PIN: 247-628-947
+2024-05-18 22:13:13,064 127.0.0.1 - - [18/May/2024 22:13:13] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2024-05-18 22:14:29,089 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-18 22:14:29,094 [33mPress CTRL+C to quit[0m
+2024-05-18 22:14:29,095  * Restarting with stat
+2024-05-18 22:14:30,438  * Debugger is active!
+2024-05-18 22:14:30,442  * Debugger PIN: 247-628-947
+2024-05-18 22:16:09,851 Prediction: 37 for Product_ID 1
+2024-05-18 22:16:10,551 Prediction: 5 for Product_ID 2
+2024-05-18 22:16:11,277 Prediction: 0 for Product_ID 3
+2024-05-18 22:16:11,983 Prediction: 1 for Product_ID 4
+2024-05-18 22:16:12,569 Prediction: 0 for Product_ID 6
+2024-05-18 22:16:13,156 Prediction: 0 for Product_ID 10
+2024-05-18 22:16:13,713 Prediction: 2 for Product_ID 14
+2024-05-18 22:16:14,285 Prediction: 0 for Product_ID 15
+2024-05-18 22:16:14,839 Prediction: 0 for Product_ID 16
+2024-05-18 22:16:14,841 127.0.0.1 - - [18/May/2024 22:16:14] "POST /predict HTTP/1.1" 200 -
+2024-05-18 22:44:32,917 127.0.0.1 - - [18/May/2024 22:44:32] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2024-05-18 22:44:43,459 127.0.0.1 - - [18/May/2024 22:44:43] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2024-05-18 22:45:24,332 127.0.0.1 - - [18/May/2024 22:45:24] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2024-05-18 22:45:39,502 127.0.0.1 - - [18/May/2024 22:45:39] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2024-05-18 22:46:13,833 127.0.0.1 - - [18/May/2024 22:46:13] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2024-05-18 22:46:25,220 127.0.0.1 - - [18/May/2024 22:46:25] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2024-05-18 22:47:01,480 127.0.0.1 - - [18/May/2024 22:47:01] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2024-05-19 00:09:00,171 127.0.0.1 - - [19/May/2024 00:09:00] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2024-05-19 00:20:55,738 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-19
+2024-05-19 00:20:55,739 127.0.0.1 - - [19/May/2024 00:20:55] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-19 00:21:16,163 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-19
+2024-05-19 00:21:16,163 127.0.0.1 - - [19/May/2024 00:21:16] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-19 00:30:30,146 Prediction: 32 for Product_ID 1
+2024-05-19 00:30:30,862 Prediction: 6 for Product_ID 2
+2024-05-19 00:30:31,675 Prediction: 10 for Product_ID 3
+2024-05-19 00:30:32,600 Prediction: 5 for Product_ID 4
+2024-05-19 00:30:33,631 Prediction: 2 for Product_ID 6
+2024-05-19 00:30:33,727 Error: No data found in counts_products_collection for Product_ID 10 on 2024-05-19
+2024-05-19 00:30:33,728 127.0.0.1 - - [19/May/2024 00:30:33] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-19 00:37:07,125 Prediction: 32 for Product_ID 1
+2024-05-19 00:37:07,739 Prediction: 6 for Product_ID 2
+2024-05-19 00:37:08,327 Prediction: 10 for Product_ID 3
+2024-05-19 00:37:08,890 Prediction: 5 for Product_ID 4
+2024-05-19 00:37:09,470 Prediction: 2 for Product_ID 6
+2024-05-19 00:37:10,073 Prediction: 11 for Product_ID 10
+2024-05-19 00:37:10,645 Prediction: 5 for Product_ID 14
+2024-05-19 00:37:11,328 Prediction: 0 for Product_ID 15
+2024-05-19 00:37:11,996 Prediction: 11 for Product_ID 16
+2024-05-19 00:37:11,997 127.0.0.1 - - [19/May/2024 00:37:11] "POST /predict HTTP/1.1" 200 -
+2024-05-19 00:39:18,515 Prediction: 32 for Product_ID 1
+2024-05-19 00:39:19,447 Prediction: 6 for Product_ID 2
+2024-05-19 00:39:20,127 Prediction: 10 for Product_ID 3
+2024-05-19 00:39:20,824 Prediction: 5 for Product_ID 4
+2024-05-19 00:39:21,526 Prediction: 2 for Product_ID 6
+2024-05-19 00:39:22,129 Prediction: 11 for Product_ID 10
+2024-05-19 00:39:22,755 Prediction: 5 for Product_ID 14
+2024-05-19 00:39:23,320 Prediction: 0 for Product_ID 15
+2024-05-19 00:39:24,380 Prediction: 11 for Product_ID 16
+2024-05-19 00:39:24,381 127.0.0.1 - - [19/May/2024 00:39:24] "POST /predict HTTP/1.1" 200 -
+2024-05-19 00:39:45,476 Prediction: 32 for Product_ID 1
+2024-05-19 00:39:45,988 Prediction: 6 for Product_ID 2
+2024-05-19 00:39:46,606 Prediction: 10 for Product_ID 3
+2024-05-19 00:39:47,127 Prediction: 5 for Product_ID 4
+2024-05-19 00:39:47,708 Prediction: 2 for Product_ID 6
+2024-05-19 00:39:48,293 Prediction: 11 for Product_ID 10
+2024-05-19 00:39:48,818 Prediction: 5 for Product_ID 14
+2024-05-19 00:39:49,472 Prediction: 0 for Product_ID 15
+2024-05-19 00:39:50,117 Prediction: 11 for Product_ID 16
+2024-05-19 00:39:50,118 127.0.0.1 - - [19/May/2024 00:39:50] "POST /predict HTTP/1.1" 200 -
+2024-05-19 20:52:43,487 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-19 20:52:43,487 [33mPress CTRL+C to quit[0m
+2024-05-19 20:52:43,489  * Restarting with stat
+2024-05-19 20:52:44,937  * Debugger is active!
+2024-05-19 20:52:44,946  * Debugger PIN: 247-628-947
+2024-05-19 20:53:08,766 Prediction: 39 for Product_ID 1
+2024-05-19 20:53:09,247 Prediction: 3 for Product_ID 2
+2024-05-19 20:53:09,698 Prediction: 8 for Product_ID 3
+2024-05-19 20:53:10,159 Prediction: 5 for Product_ID 4
+2024-05-19 20:53:10,581 Prediction: 1 for Product_ID 6
+2024-05-19 20:53:11,095 Prediction: 15 for Product_ID 10
+2024-05-19 20:53:11,555 Prediction: 3 for Product_ID 14
+2024-05-19 20:53:11,983 Prediction: 0 for Product_ID 15
+2024-05-19 20:53:12,551 Prediction: 5 for Product_ID 16
+2024-05-19 20:53:12,552 127.0.0.1 - - [19/May/2024 20:53:12] "POST /predict HTTP/1.1" 200 -
+2024-05-19 21:23:28,463 Prediction: 39 for Product_ID 1
+2024-05-19 21:23:28,909 Prediction: 3 for Product_ID 2
+2024-05-19 21:23:29,327 Prediction: 8 for Product_ID 3
+2024-05-19 21:23:29,835 Prediction: 5 for Product_ID 4
+2024-05-19 21:23:30,278 Prediction: 1 for Product_ID 6
+2024-05-19 21:23:30,718 Prediction: 15 for Product_ID 10
+2024-05-19 21:23:31,171 Prediction: 3 for Product_ID 14
+2024-05-19 21:23:31,608 Prediction: 0 for Product_ID 15
+2024-05-19 21:23:32,150 Prediction: 5 for Product_ID 16
+2024-05-19 21:23:32,150 127.0.0.1 - - [19/May/2024 21:23:32] "POST /predict HTTP/1.1" 200 -
+2024-05-19 21:24:00,203 Prediction: 39 for Product_ID 1
+2024-05-19 21:24:00,644 Prediction: 3 for Product_ID 2
+2024-05-19 21:24:01,111 Prediction: 8 for Product_ID 3
+2024-05-19 21:24:01,580 Prediction: 5 for Product_ID 4
+2024-05-19 21:24:02,059 Prediction: 1 for Product_ID 6
+2024-05-19 21:24:02,524 Prediction: 15 for Product_ID 10
+2024-05-19 21:24:02,988 Prediction: 3 for Product_ID 14
+2024-05-19 21:24:03,448 Prediction: 0 for Product_ID 15
+2024-05-19 21:24:03,876 Prediction: 5 for Product_ID 16
+2024-05-19 21:24:03,876 127.0.0.1 - - [19/May/2024 21:24:03] "POST /predict HTTP/1.1" 200 -
+2024-05-19 21:24:41,051 Prediction: 39 for Product_ID 1
+2024-05-19 21:24:41,544 Prediction: 3 for Product_ID 2
+2024-05-19 21:24:42,009 Prediction: 8 for Product_ID 3
+2024-05-19 21:24:42,497 Prediction: 5 for Product_ID 4
+2024-05-19 21:24:42,989 Prediction: 1 for Product_ID 6
+2024-05-19 21:24:43,424 Prediction: 15 for Product_ID 10
+2024-05-19 21:24:43,919 Prediction: 3 for Product_ID 14
+2024-05-19 21:24:44,406 Prediction: 0 for Product_ID 15
+2024-05-19 21:24:44,858 Prediction: 5 for Product_ID 16
+2024-05-19 21:24:44,861 127.0.0.1 - - [19/May/2024 21:24:44] "POST /predict HTTP/1.1" 200 -
+2024-05-19 21:24:53,634 Prediction: 39 for Product_ID 1
+2024-05-19 21:24:54,075 Prediction: 3 for Product_ID 2
+2024-05-19 21:24:54,517 Prediction: 8 for Product_ID 3
+2024-05-19 21:24:54,986 Prediction: 5 for Product_ID 4
+2024-05-19 21:24:55,438 Prediction: 1 for Product_ID 6
+2024-05-19 21:24:55,878 Prediction: 15 for Product_ID 10
+2024-05-19 21:24:56,349 Prediction: 3 for Product_ID 14
+2024-05-19 21:24:56,828 Prediction: 0 for Product_ID 15
+2024-05-19 21:24:57,269 Prediction: 5 for Product_ID 16
+2024-05-19 21:24:57,270 127.0.0.1 - - [19/May/2024 21:24:57] "POST /predict HTTP/1.1" 200 -
+2024-05-19 21:25:09,216 Prediction: 39 for Product_ID 1
+2024-05-19 21:25:09,662 Prediction: 3 for Product_ID 2
+2024-05-19 21:25:10,156 Prediction: 8 for Product_ID 3
+2024-05-19 21:25:10,586 Prediction: 5 for Product_ID 4
+2024-05-19 21:25:11,123 Prediction: 1 for Product_ID 6
+2024-05-19 21:25:11,563 Prediction: 15 for Product_ID 10
+2024-05-19 21:25:12,001 Prediction: 3 for Product_ID 14
+2024-05-19 21:25:12,469 Prediction: 0 for Product_ID 15
+2024-05-19 21:25:12,959 Prediction: 5 for Product_ID 16
+2024-05-19 21:25:12,959 127.0.0.1 - - [19/May/2024 21:25:12] "POST /predict HTTP/1.1" 200 -
+2024-05-19 21:25:20,399 Prediction: 39 for Product_ID 1
+2024-05-19 21:25:20,877 Prediction: 3 for Product_ID 2
+2024-05-19 21:25:21,364 Prediction: 8 for Product_ID 3
+2024-05-19 21:25:21,818 Prediction: 5 for Product_ID 4
+2024-05-19 21:25:22,276 Prediction: 1 for Product_ID 6
+2024-05-19 21:25:22,724 Prediction: 15 for Product_ID 10
+2024-05-19 21:25:23,154 Prediction: 3 for Product_ID 14
+2024-05-19 21:25:23,568 Prediction: 0 for Product_ID 15
+2024-05-19 21:25:23,985 Prediction: 5 for Product_ID 16
+2024-05-19 21:25:23,985 127.0.0.1 - - [19/May/2024 21:25:23] "POST /predict HTTP/1.1" 200 -
+2024-05-19 21:25:56,292 Prediction: 39 for Product_ID 1
+2024-05-19 21:25:56,768 Prediction: 3 for Product_ID 2
+2024-05-19 21:25:57,282 Prediction: 8 for Product_ID 3
+2024-05-19 21:25:57,699 Prediction: 5 for Product_ID 4
+2024-05-19 21:25:58,130 Prediction: 1 for Product_ID 6
+2024-05-19 21:25:58,638 Prediction: 15 for Product_ID 10
+2024-05-19 21:25:59,092 Prediction: 3 for Product_ID 14
+2024-05-19 21:25:59,574 Prediction: 0 for Product_ID 15
+2024-05-19 21:26:00,019 Prediction: 5 for Product_ID 16
+2024-05-19 21:26:00,019 127.0.0.1 - - [19/May/2024 21:26:00] "POST /predict HTTP/1.1" 200 -
+2024-05-19 21:26:23,869 Prediction: 39 for Product_ID 1
+2024-05-19 21:26:24,347 Prediction: 3 for Product_ID 2
+2024-05-19 21:26:24,790 Prediction: 8 for Product_ID 3
+2024-05-19 21:26:25,238 Prediction: 5 for Product_ID 4
+2024-05-19 21:26:25,656 Prediction: 1 for Product_ID 6
+2024-05-19 21:26:26,131 Prediction: 15 for Product_ID 10
+2024-05-19 21:26:26,687 Prediction: 3 for Product_ID 14
+2024-05-19 21:26:27,140 Prediction: 0 for Product_ID 15
+2024-05-19 21:26:27,578 Prediction: 5 for Product_ID 16
+2024-05-19 21:26:27,578 127.0.0.1 - - [19/May/2024 21:26:27] "POST /predict HTTP/1.1" 200 -
+2024-05-19 21:26:31,924 Prediction: 39 for Product_ID 1
+2024-05-19 21:26:32,390 Prediction: 3 for Product_ID 2
+2024-05-19 21:26:32,845 Prediction: 8 for Product_ID 3
+2024-05-19 21:26:33,276 Prediction: 5 for Product_ID 4
+2024-05-19 21:26:34,727 Prediction: 1 for Product_ID 6
+2024-05-19 21:26:35,140 Prediction: 15 for Product_ID 10
+2024-05-19 21:26:35,672 Prediction: 3 for Product_ID 14
+2024-05-19 21:26:36,108 Prediction: 0 for Product_ID 15
+2024-05-19 21:26:36,553 Prediction: 5 for Product_ID 16
+2024-05-19 21:26:36,553 127.0.0.1 - - [19/May/2024 21:26:36] "POST /predict HTTP/1.1" 200 -
+2024-05-19 21:27:27,771 Prediction: 39 for Product_ID 1
+2024-05-19 21:27:28,329 Prediction: 3 for Product_ID 2
+2024-05-19 21:27:28,810 Prediction: 8 for Product_ID 3
+2024-05-19 21:27:29,243 Prediction: 5 for Product_ID 4
+2024-05-19 21:27:29,721 Prediction: 1 for Product_ID 6
+2024-05-19 21:27:30,175 Prediction: 15 for Product_ID 10
+2024-05-19 21:27:30,645 Prediction: 3 for Product_ID 14
+2024-05-19 21:27:31,081 Prediction: 0 for Product_ID 15
+2024-05-19 21:27:31,487 Prediction: 5 for Product_ID 16
+2024-05-19 21:27:31,487 127.0.0.1 - - [19/May/2024 21:27:31] "POST /predict HTTP/1.1" 200 -
+2024-05-19 21:28:05,648 Prediction: 39 for Product_ID 1
+2024-05-19 21:28:06,195 Prediction: 3 for Product_ID 2
+2024-05-19 21:28:06,664 Prediction: 8 for Product_ID 3
+2024-05-19 21:28:07,211 Prediction: 5 for Product_ID 4
+2024-05-19 21:28:07,671 Prediction: 1 for Product_ID 6
+2024-05-19 21:28:08,168 Prediction: 15 for Product_ID 10
+2024-05-19 21:28:08,619 Prediction: 3 for Product_ID 14
+2024-05-19 21:28:09,052 Prediction: 0 for Product_ID 15
+2024-05-19 21:28:09,534 Prediction: 5 for Product_ID 16
+2024-05-19 21:28:09,535 127.0.0.1 - - [19/May/2024 21:28:09] "POST /predict HTTP/1.1" 200 -
+2024-05-19 21:30:17,049 Prediction: 39 for Product_ID 1
+2024-05-19 21:30:17,500 Prediction: 3 for Product_ID 2
+2024-05-19 21:30:17,998 Prediction: 8 for Product_ID 3
+2024-05-19 21:30:18,466 Prediction: 5 for Product_ID 4
+2024-05-19 21:30:18,964 Prediction: 1 for Product_ID 6
+2024-05-19 21:30:19,458 Prediction: 15 for Product_ID 10
+2024-05-19 21:30:19,899 Prediction: 3 for Product_ID 14
+2024-05-19 21:30:20,343 Prediction: 0 for Product_ID 15
+2024-05-19 21:30:20,797 Prediction: 5 for Product_ID 16
+2024-05-19 21:30:20,797 127.0.0.1 - - [19/May/2024 21:30:20] "POST /predict HTTP/1.1" 200 -
+2024-05-19 21:39:12,933 Prediction: 37 for Product_ID 1
+2024-05-19 21:39:13,392 Prediction: 3 for Product_ID 2
+2024-05-19 21:39:13,884 Prediction: 8 for Product_ID 3
+2024-05-19 21:39:14,305 Prediction: 5 for Product_ID 4
+2024-05-19 21:39:14,789 Prediction: 1 for Product_ID 6
+2024-05-19 21:39:15,252 Prediction: 15 for Product_ID 10
+2024-05-19 21:39:15,690 Prediction: 3 for Product_ID 14
+2024-05-19 21:39:16,168 Prediction: 0 for Product_ID 15
+2024-05-19 21:39:16,591 Prediction: 5 for Product_ID 16
+2024-05-19 21:39:16,592 127.0.0.1 - - [19/May/2024 21:39:16] "POST /predict HTTP/1.1" 200 -
+2024-05-19 21:39:58,194 Prediction: 37 for Product_ID 1
+2024-05-19 21:39:58,644 Prediction: 3 for Product_ID 2
+2024-05-19 21:39:59,074 Prediction: 8 for Product_ID 3
+2024-05-19 21:39:59,572 Prediction: 5 for Product_ID 4
+2024-05-19 21:40:00,085 Prediction: 1 for Product_ID 6
+2024-05-19 21:40:00,545 Prediction: 15 for Product_ID 10
+2024-05-19 21:40:00,979 Prediction: 3 for Product_ID 14
+2024-05-19 21:40:01,437 Prediction: 0 for Product_ID 15
+2024-05-19 21:40:02,060 Prediction: 5 for Product_ID 16
+2024-05-19 21:40:02,060 127.0.0.1 - - [19/May/2024 21:40:02] "POST /predict HTTP/1.1" 200 -
+2024-05-19 21:42:59,466 Prediction: 39 for Product_ID 1
+2024-05-19 21:43:00,029 Prediction: 3 for Product_ID 2
+2024-05-19 21:43:00,501 Prediction: 8 for Product_ID 3
+2024-05-19 21:43:00,952 Prediction: 5 for Product_ID 4
+2024-05-19 21:43:01,405 Prediction: 1 for Product_ID 6
+2024-05-19 21:43:01,878 Prediction: 15 for Product_ID 10
+2024-05-19 21:43:02,390 Prediction: 3 for Product_ID 14
+2024-05-19 21:43:02,856 Prediction: 0 for Product_ID 15
+2024-05-19 21:43:03,370 Prediction: 5 for Product_ID 16
+2024-05-19 21:43:03,371 127.0.0.1 - - [19/May/2024 21:43:03] "POST /predict HTTP/1.1" 200 -
+2024-05-19 21:45:42,130 Prediction: 37 for Product_ID 1
+2024-05-19 21:45:42,569 Prediction: 3 for Product_ID 2
+2024-05-19 21:45:43,076 Prediction: 8 for Product_ID 3
+2024-05-19 21:45:43,583 Prediction: 5 for Product_ID 4
+2024-05-19 21:45:44,072 Prediction: 1 for Product_ID 6
+2024-05-19 21:45:44,722 Prediction: 15 for Product_ID 10
+2024-05-19 21:45:45,184 Prediction: 3 for Product_ID 14
+2024-05-19 21:45:45,645 Prediction: 0 for Product_ID 15
+2024-05-19 21:45:46,164 Prediction: 5 for Product_ID 16
+2024-05-19 21:45:46,165 127.0.0.1 - - [19/May/2024 21:45:46] "POST /predict HTTP/1.1" 200 -
+2024-05-19 21:56:20,584 Prediction: 35 for Product_ID 1
+2024-05-19 21:56:21,038 Prediction: 3 for Product_ID 2
+2024-05-19 21:56:21,496 Prediction: 8 for Product_ID 3
+2024-05-19 21:56:21,929 Prediction: 5 for Product_ID 4
+2024-05-19 21:56:22,375 Prediction: 1 for Product_ID 6
+2024-05-19 21:56:22,816 Prediction: 15 for Product_ID 10
+2024-05-19 21:56:23,254 Prediction: 3 for Product_ID 14
+2024-05-19 21:56:23,708 Prediction: 0 for Product_ID 15
+2024-05-19 21:56:24,122 Prediction: 5 for Product_ID 16
+2024-05-19 21:56:24,123 127.0.0.1 - - [19/May/2024 21:56:24] "POST /predict HTTP/1.1" 200 -
+2024-05-19 21:58:08,866 Prediction: 37 for Product_ID 1
+2024-05-19 21:58:09,407 Prediction: 3 for Product_ID 2
+2024-05-19 21:58:09,867 Prediction: 8 for Product_ID 3
+2024-05-19 21:58:10,344 Prediction: 5 for Product_ID 4
+2024-05-19 21:58:10,800 Prediction: 1 for Product_ID 6
+2024-05-19 21:58:11,347 Prediction: 15 for Product_ID 10
+2024-05-19 21:58:11,847 Prediction: 3 for Product_ID 14
+2024-05-19 21:58:12,385 Prediction: 0 for Product_ID 15
+2024-05-19 21:58:12,798 Prediction: 5 for Product_ID 16
+2024-05-19 21:58:12,798 127.0.0.1 - - [19/May/2024 21:58:12] "POST /predict HTTP/1.1" 200 -
+2024-05-19 22:00:05,047 Prediction: 35 for Product_ID 1
+2024-05-19 22:00:06,176 Prediction: 3 for Product_ID 2
+2024-05-19 22:00:06,821 Prediction: 8 for Product_ID 3
+2024-05-19 22:00:07,923 Prediction: 5 for Product_ID 4
+2024-05-19 22:00:11,358 Prediction: 1 for Product_ID 6
+2024-05-19 22:00:11,927 Prediction: 15 for Product_ID 10
+2024-05-19 22:00:12,370 Prediction: 3 for Product_ID 14
+2024-05-19 22:00:12,784 Prediction: 0 for Product_ID 15
+2024-05-19 22:00:13,265 Prediction: 5 for Product_ID 16
+2024-05-19 22:00:13,266 127.0.0.1 - - [19/May/2024 22:00:13] "POST /predict HTTP/1.1" 200 -
+2024-05-19 22:01:49,429 Prediction: 35 for Product_ID 1
+2024-05-19 22:01:50,041 Prediction: 3 for Product_ID 2
+2024-05-19 22:01:50,748 Prediction: 8 for Product_ID 3
+2024-05-19 22:01:51,278 Prediction: 5 for Product_ID 4
+2024-05-19 22:01:51,729 Prediction: 1 for Product_ID 6
+2024-05-19 22:01:52,171 Prediction: 15 for Product_ID 10
+2024-05-19 22:01:52,694 Prediction: 3 for Product_ID 14
+2024-05-19 22:01:53,142 Prediction: 0 for Product_ID 15
+2024-05-19 22:01:53,592 Prediction: 5 for Product_ID 16
+2024-05-19 22:01:53,592 127.0.0.1 - - [19/May/2024 22:01:53] "POST /predict HTTP/1.1" 200 -
+2024-05-19 22:02:00,193 Prediction: 35 for Product_ID 1
+2024-05-19 22:02:00,747 Prediction: 3 for Product_ID 2
+2024-05-19 22:02:02,164 Prediction: 8 for Product_ID 3
+2024-05-19 22:02:02,758 Prediction: 5 for Product_ID 4
+2024-05-19 22:02:03,217 Prediction: 1 for Product_ID 6
+2024-05-19 22:02:03,678 Prediction: 15 for Product_ID 10
+2024-05-19 22:02:04,151 Prediction: 3 for Product_ID 14
+2024-05-19 22:02:04,650 Prediction: 0 for Product_ID 15
+2024-05-19 22:02:05,136 Prediction: 5 for Product_ID 16
+2024-05-19 22:02:05,137 127.0.0.1 - - [19/May/2024 22:02:05] "POST /predict HTTP/1.1" 200 -
+2024-05-19 22:02:23,946 Prediction: 35 for Product_ID 1
+2024-05-19 22:02:24,377 Prediction: 3 for Product_ID 2
+2024-05-19 22:02:25,196 Prediction: 8 for Product_ID 3
+2024-05-19 22:02:25,635 Prediction: 5 for Product_ID 4
+2024-05-19 22:02:26,144 Prediction: 1 for Product_ID 6
+2024-05-19 22:02:26,580 Prediction: 15 for Product_ID 10
+2024-05-19 22:02:27,136 Prediction: 3 for Product_ID 14
+2024-05-19 22:02:27,560 Prediction: 0 for Product_ID 15
+2024-05-19 22:02:27,982 Prediction: 5 for Product_ID 16
+2024-05-19 22:02:27,982 127.0.0.1 - - [19/May/2024 22:02:27] "POST /predict HTTP/1.1" 200 -
+2024-05-19 22:03:00,515 Prediction: 35 for Product_ID 1
+2024-05-19 22:03:00,949 Prediction: 3 for Product_ID 2
+2024-05-19 22:03:01,447 Prediction: 8 for Product_ID 3
+2024-05-19 22:03:01,919 Prediction: 5 for Product_ID 4
+2024-05-19 22:03:02,930 Prediction: 1 for Product_ID 6
+2024-05-19 22:03:03,456 Prediction: 15 for Product_ID 10
+2024-05-19 22:03:03,903 Prediction: 3 for Product_ID 14
+2024-05-19 22:03:04,382 Prediction: 0 for Product_ID 15
+2024-05-19 22:03:04,867 Prediction: 5 for Product_ID 16
+2024-05-19 22:03:04,867 127.0.0.1 - - [19/May/2024 22:03:04] "POST /predict HTTP/1.1" 200 -
+2024-05-19 22:03:16,767 Prediction: 35 for Product_ID 1
+2024-05-19 22:03:17,428 Prediction: 3 for Product_ID 2
+2024-05-19 22:03:17,955 Prediction: 8 for Product_ID 3
+2024-05-19 22:03:18,409 Prediction: 5 for Product_ID 4
+2024-05-19 22:03:18,882 Prediction: 1 for Product_ID 6
+2024-05-19 22:03:19,356 Prediction: 15 for Product_ID 10
+2024-05-19 22:03:19,806 Prediction: 3 for Product_ID 14
+2024-05-19 22:03:20,307 Prediction: 0 for Product_ID 15
+2024-05-19 22:03:20,799 Prediction: 5 for Product_ID 16
+2024-05-19 22:03:20,800 127.0.0.1 - - [19/May/2024 22:03:20] "POST /predict HTTP/1.1" 200 -
+2024-05-19 22:09:11,108 Prediction: 39 for Product_ID 1
+2024-05-19 22:09:11,538 Prediction: 3 for Product_ID 2
+2024-05-19 22:09:11,996 Prediction: 8 for Product_ID 3
+2024-05-19 22:09:12,452 Prediction: 5 for Product_ID 4
+2024-05-19 22:09:12,922 Prediction: 1 for Product_ID 6
+2024-05-19 22:09:13,381 Prediction: 15 for Product_ID 10
+2024-05-19 22:09:13,926 Prediction: 3 for Product_ID 14
+2024-05-19 22:09:14,350 Prediction: 0 for Product_ID 15
+2024-05-19 22:09:14,779 Prediction: 5 for Product_ID 16
+2024-05-19 22:09:14,780 127.0.0.1 - - [19/May/2024 22:09:14] "POST /predict HTTP/1.1" 200 -
+2024-05-19 22:10:31,064 Prediction: 39 for Product_ID 1
+2024-05-19 22:10:31,515 Prediction: 3 for Product_ID 2
+2024-05-19 22:10:31,987 Prediction: 8 for Product_ID 3
+2024-05-19 22:10:32,457 Prediction: 5 for Product_ID 4
+2024-05-19 22:10:32,919 Prediction: 1 for Product_ID 6
+2024-05-19 22:10:33,436 Prediction: 15 for Product_ID 10
+2024-05-19 22:10:34,004 Prediction: 3 for Product_ID 14
+2024-05-19 22:10:34,492 Prediction: 0 for Product_ID 15
+2024-05-19 22:10:34,941 Prediction: 5 for Product_ID 16
+2024-05-19 22:10:34,941 127.0.0.1 - - [19/May/2024 22:10:34] "POST /predict HTTP/1.1" 200 -
+2024-05-19 22:11:47,058 Prediction: 39 for Product_ID 1
+2024-05-19 22:11:47,503 Prediction: 3 for Product_ID 2
+2024-05-19 22:11:47,973 Prediction: 8 for Product_ID 3
+2024-05-19 22:11:49,412 Prediction: 5 for Product_ID 4
+2024-05-19 22:11:51,193 Prediction: 1 for Product_ID 6
+2024-05-19 22:11:51,677 Prediction: 15 for Product_ID 10
+2024-05-19 22:11:52,869 Prediction: 3 for Product_ID 14
+2024-05-19 22:11:53,314 Prediction: 0 for Product_ID 15
+2024-05-19 22:11:53,824 Prediction: 5 for Product_ID 16
+2024-05-19 22:11:53,824 127.0.0.1 - - [19/May/2024 22:11:53] "POST /predict HTTP/1.1" 200 -
+2024-05-19 22:14:07,220 Prediction: 39 for Product_ID 1
+2024-05-19 22:14:07,697 Prediction: 3 for Product_ID 2
+2024-05-19 22:14:08,184 Prediction: 8 for Product_ID 3
+2024-05-19 22:14:08,655 Prediction: 5 for Product_ID 4
+2024-05-19 22:14:09,152 Prediction: 1 for Product_ID 6
+2024-05-19 22:14:09,606 Prediction: 15 for Product_ID 10
+2024-05-19 22:14:10,012 Prediction: 3 for Product_ID 14
+2024-05-19 22:14:10,478 Prediction: 0 for Product_ID 15
+2024-05-19 22:14:10,935 Prediction: 5 for Product_ID 16
+2024-05-19 22:14:10,935 127.0.0.1 - - [19/May/2024 22:14:10] "POST /predict HTTP/1.1" 200 -
+2024-05-19 22:15:19,536 Prediction: 39 for Product_ID 1
+2024-05-19 22:15:20,005 Prediction: 3 for Product_ID 2
+2024-05-19 22:15:20,493 Prediction: 8 for Product_ID 3
+2024-05-19 22:15:20,949 Prediction: 5 for Product_ID 4
+2024-05-19 22:15:21,442 Prediction: 1 for Product_ID 6
+2024-05-19 22:15:21,939 Prediction: 15 for Product_ID 10
+2024-05-19 22:15:22,465 Prediction: 3 for Product_ID 14
+2024-05-19 22:15:22,947 Prediction: 0 for Product_ID 15
+2024-05-19 22:15:23,432 Prediction: 5 for Product_ID 16
+2024-05-19 22:15:23,432 127.0.0.1 - - [19/May/2024 22:15:23] "POST /predict HTTP/1.1" 200 -
+2024-05-19 22:17:34,220 Prediction: 39 for Product_ID 1
+2024-05-19 22:17:34,696 Prediction: 3 for Product_ID 2
+2024-05-19 22:17:35,204 Prediction: 8 for Product_ID 3
+2024-05-19 22:17:35,695 Prediction: 5 for Product_ID 4
+2024-05-19 22:17:36,140 Prediction: 1 for Product_ID 6
+2024-05-19 22:17:36,615 Prediction: 15 for Product_ID 10
+2024-05-19 22:17:37,118 Prediction: 3 for Product_ID 14
+2024-05-19 22:17:37,783 Prediction: 0 for Product_ID 15
+2024-05-19 22:17:38,233 Prediction: 5 for Product_ID 16
+2024-05-19 22:17:38,233 127.0.0.1 - - [19/May/2024 22:17:38] "POST /predict HTTP/1.1" 200 -
+2024-05-19 22:17:38,766 Prediction: 39 for Product_ID 1
+2024-05-19 22:17:39,211 Prediction: 3 for Product_ID 2
+2024-05-19 22:17:39,659 Prediction: 8 for Product_ID 3
+2024-05-19 22:17:40,151 Prediction: 5 for Product_ID 4
+2024-05-19 22:17:40,614 Prediction: 1 for Product_ID 6
+2024-05-19 22:17:41,064 Prediction: 15 for Product_ID 10
+2024-05-19 22:17:41,513 Prediction: 3 for Product_ID 14
+2024-05-19 22:17:42,007 Prediction: 0 for Product_ID 15
+2024-05-19 22:17:42,454 Prediction: 5 for Product_ID 16
+2024-05-19 22:17:42,454 127.0.0.1 - - [19/May/2024 22:17:42] "POST /predict HTTP/1.1" 200 -
+2024-05-19 22:18:31,817 Prediction: 39 for Product_ID 1
+2024-05-19 22:18:32,310 Prediction: 3 for Product_ID 2
+2024-05-19 22:18:32,866 Prediction: 8 for Product_ID 3
+2024-05-19 22:18:33,357 Prediction: 5 for Product_ID 4
+2024-05-19 22:18:33,913 Prediction: 1 for Product_ID 6
+2024-05-19 22:18:34,431 Prediction: 15 for Product_ID 10
+2024-05-19 22:18:34,923 Prediction: 3 for Product_ID 14
+2024-05-19 22:18:35,433 Prediction: 0 for Product_ID 15
+2024-05-19 22:18:35,974 Prediction: 5 for Product_ID 16
+2024-05-19 22:18:35,974 127.0.0.1 - - [19/May/2024 22:18:35] "POST /predict HTTP/1.1" 200 -
+2024-05-19 22:18:41,269 Prediction: 39 for Product_ID 1
+2024-05-19 22:18:41,781 Prediction: 3 for Product_ID 2
+2024-05-19 22:18:42,266 Prediction: 8 for Product_ID 3
+2024-05-19 22:18:42,769 Prediction: 5 for Product_ID 4
+2024-05-19 22:18:43,227 Prediction: 1 for Product_ID 6
+2024-05-19 22:18:43,672 Prediction: 15 for Product_ID 10
+2024-05-19 22:18:44,148 Prediction: 3 for Product_ID 14
+2024-05-19 22:18:44,584 Prediction: 0 for Product_ID 15
+2024-05-19 22:18:45,087 Prediction: 5 for Product_ID 16
+2024-05-19 22:18:45,088 127.0.0.1 - - [19/May/2024 22:18:45] "POST /predict HTTP/1.1" 200 -
+2024-05-19 22:18:55,738 Prediction: 39 for Product_ID 1
+2024-05-19 22:18:56,256 Prediction: 3 for Product_ID 2
+2024-05-19 22:18:56,732 Prediction: 8 for Product_ID 3
+2024-05-19 22:18:57,226 Prediction: 5 for Product_ID 4
+2024-05-19 22:18:57,686 Prediction: 1 for Product_ID 6
+2024-05-19 22:18:58,201 Prediction: 15 for Product_ID 10
+2024-05-19 22:18:58,692 Prediction: 3 for Product_ID 14
+2024-05-19 22:18:59,181 Prediction: 0 for Product_ID 15
+2024-05-19 22:18:59,637 Prediction: 5 for Product_ID 16
+2024-05-19 22:18:59,637 127.0.0.1 - - [19/May/2024 22:18:59] "POST /predict HTTP/1.1" 200 -
+2024-05-19 22:20:55,657 Prediction: 39 for Product_ID 1
+2024-05-19 22:20:56,141 Prediction: 3 for Product_ID 2
+2024-05-19 22:20:56,637 Prediction: 8 for Product_ID 3
+2024-05-19 22:20:57,144 Prediction: 5 for Product_ID 4
+2024-05-19 22:20:57,634 Prediction: 1 for Product_ID 6
+2024-05-19 22:20:58,132 Prediction: 15 for Product_ID 10
+2024-05-19 22:20:58,614 Prediction: 3 for Product_ID 14
+2024-05-19 22:20:59,102 Prediction: 0 for Product_ID 15
+2024-05-19 22:20:59,581 Prediction: 5 for Product_ID 16
+2024-05-19 22:20:59,581 127.0.0.1 - - [19/May/2024 22:20:59] "POST /predict HTTP/1.1" 200 -
+2024-05-19 22:21:05,462 Prediction: 39 for Product_ID 1
+2024-05-19 22:21:06,056 Prediction: 3 for Product_ID 2
+2024-05-19 22:21:06,556 Prediction: 8 for Product_ID 3
+2024-05-19 22:21:07,061 Prediction: 5 for Product_ID 4
+2024-05-19 22:21:07,545 Prediction: 1 for Product_ID 6
+2024-05-19 22:21:07,996 Prediction: 15 for Product_ID 10
+2024-05-19 22:21:08,515 Prediction: 3 for Product_ID 14
+2024-05-19 22:21:08,942 Prediction: 0 for Product_ID 15
+2024-05-19 22:21:09,457 Prediction: 5 for Product_ID 16
+2024-05-19 22:21:09,457 127.0.0.1 - - [19/May/2024 22:21:09] "POST /predict HTTP/1.1" 200 -
+2024-05-19 22:22:34,380 Prediction: 39 for Product_ID 1
+2024-05-19 22:22:34,846 Prediction: 3 for Product_ID 2
+2024-05-19 22:22:35,339 Prediction: 8 for Product_ID 3
+2024-05-19 22:22:35,789 Prediction: 5 for Product_ID 4
+2024-05-19 22:22:36,517 Prediction: 1 for Product_ID 6
+2024-05-19 22:22:37,050 Prediction: 15 for Product_ID 10
+2024-05-19 22:22:37,506 Prediction: 3 for Product_ID 14
+2024-05-19 22:22:37,969 Prediction: 0 for Product_ID 15
+2024-05-19 22:22:38,459 Prediction: 5 for Product_ID 16
+2024-05-19 22:22:38,459 127.0.0.1 - - [19/May/2024 22:22:38] "POST /predict HTTP/1.1" 200 -
+2024-05-19 22:22:46,631 Prediction: 39 for Product_ID 1
+2024-05-19 22:22:47,101 Prediction: 3 for Product_ID 2
+2024-05-19 22:22:47,616 Prediction: 8 for Product_ID 3
+2024-05-19 22:22:48,069 Prediction: 5 for Product_ID 4
+2024-05-19 22:22:48,521 Prediction: 1 for Product_ID 6
+2024-05-19 22:22:49,310 Prediction: 15 for Product_ID 10
+2024-05-19 22:22:49,783 Prediction: 3 for Product_ID 14
+2024-05-19 22:22:50,268 Prediction: 0 for Product_ID 15
+2024-05-19 22:22:50,749 Prediction: 5 for Product_ID 16
+2024-05-19 22:22:50,749 127.0.0.1 - - [19/May/2024 22:22:50] "POST /predict HTTP/1.1" 200 -
+2024-05-19 22:23:23,215 Prediction: 39 for Product_ID 1
+2024-05-19 22:23:23,751 Prediction: 3 for Product_ID 2
+2024-05-19 22:23:24,739 Prediction: 8 for Product_ID 3
+2024-05-19 22:23:25,237 Prediction: 5 for Product_ID 4
+2024-05-19 22:23:25,754 Prediction: 1 for Product_ID 6
+2024-05-19 22:23:26,255 Prediction: 15 for Product_ID 10
+2024-05-19 22:23:26,774 Prediction: 3 for Product_ID 14
+2024-05-19 22:23:27,256 Prediction: 0 for Product_ID 15
+2024-05-19 22:23:27,802 Prediction: 5 for Product_ID 16
+2024-05-19 22:23:27,803 127.0.0.1 - - [19/May/2024 22:23:27] "POST /predict HTTP/1.1" 200 -
+2024-05-19 22:49:05,716 Prediction: 23 for Product_ID 1
+2024-05-19 22:49:06,261 Prediction: 5 for Product_ID 2
+2024-05-19 22:49:06,897 Prediction: 10 for Product_ID 3
+2024-05-19 22:49:07,397 Prediction: 7 for Product_ID 4
+2024-05-19 22:49:07,851 Prediction: 1 for Product_ID 6
+2024-05-19 22:49:08,319 Prediction: 12 for Product_ID 10
+2024-05-19 22:49:08,772 Prediction: 3 for Product_ID 14
+2024-05-19 22:49:09,262 Prediction: 0 for Product_ID 15
+2024-05-19 22:49:09,788 Prediction: 23 for Product_ID 1
+2024-05-19 22:49:09,805 Prediction: 10 for Product_ID 16
+2024-05-19 22:49:09,805 127.0.0.1 - - [19/May/2024 22:49:09] "POST /predict HTTP/1.1" 200 -
+2024-05-19 22:49:10,269 Prediction: 5 for Product_ID 2
+2024-05-19 22:49:10,762 Prediction: 10 for Product_ID 3
+2024-05-19 22:49:11,212 Prediction: 7 for Product_ID 4
+2024-05-19 22:49:11,702 Prediction: 1 for Product_ID 6
+2024-05-19 22:49:12,157 Prediction: 12 for Product_ID 10
+2024-05-19 22:49:12,607 Prediction: 3 for Product_ID 14
+2024-05-19 22:49:13,056 Prediction: 0 for Product_ID 15
+2024-05-19 22:49:13,514 Prediction: 10 for Product_ID 16
+2024-05-19 22:49:13,515 127.0.0.1 - - [19/May/2024 22:49:13] "POST /predict HTTP/1.1" 200 -
+2024-05-19 22:52:38,060 Prediction: 26 for Product_ID 1
+2024-05-19 22:52:38,480 Prediction: 5 for Product_ID 2
+2024-05-19 22:52:38,917 Prediction: 10 for Product_ID 3
+2024-05-19 22:52:39,364 Prediction: 5 for Product_ID 4
+2024-05-19 22:52:39,782 Prediction: 2 for Product_ID 6
+2024-05-19 22:52:40,220 Prediction: 12 for Product_ID 10
+2024-05-19 22:52:40,647 Prediction: 2 for Product_ID 14
+2024-05-19 22:52:41,066 Prediction: 0 for Product_ID 15
+2024-05-19 22:52:41,483 Prediction: 10 for Product_ID 16
+2024-05-19 22:52:41,484 127.0.0.1 - - [19/May/2024 22:52:41] "POST /predict HTTP/1.1" 200 -
+2024-05-19 22:52:50,562 Prediction: 26 for Product_ID 1
+2024-05-19 22:52:51,000 Prediction: 5 for Product_ID 2
+2024-05-19 22:52:51,448 Prediction: 10 for Product_ID 3
+2024-05-19 22:52:51,885 Prediction: 5 for Product_ID 4
+2024-05-19 22:52:52,319 Prediction: 2 for Product_ID 6
+2024-05-19 22:52:52,818 Prediction: 12 for Product_ID 10
+2024-05-19 22:52:53,233 Prediction: 2 for Product_ID 14
+2024-05-19 22:52:53,789 Prediction: 0 for Product_ID 15
+2024-05-19 22:52:54,211 Prediction: 10 for Product_ID 16
+2024-05-19 22:52:54,211 127.0.0.1 - - [19/May/2024 22:52:54] "POST /predict HTTP/1.1" 200 -
+2024-05-19 22:55:20,655 Prediction: 26 for Product_ID 1
+2024-05-19 22:55:21,113 Prediction: 5 for Product_ID 2
+2024-05-19 22:55:21,581 Prediction: 10 for Product_ID 3
+2024-05-19 22:55:22,024 Prediction: 5 for Product_ID 4
+2024-05-19 22:55:22,460 Prediction: 2 for Product_ID 6
+2024-05-19 22:55:22,949 Prediction: 12 for Product_ID 10
+2024-05-19 22:55:23,394 Prediction: 2 for Product_ID 14
+2024-05-19 22:55:23,805 Prediction: 0 for Product_ID 15
+2024-05-19 22:55:24,245 Prediction: 10 for Product_ID 16
+2024-05-19 22:55:24,245 127.0.0.1 - - [19/May/2024 22:55:24] "POST /predict HTTP/1.1" 200 -
+2024-05-19 22:55:33,974 Prediction: 26 for Product_ID 1
+2024-05-19 22:55:34,439 Prediction: 5 for Product_ID 2
+2024-05-19 22:55:34,921 Prediction: 10 for Product_ID 3
+2024-05-19 22:55:35,383 Prediction: 5 for Product_ID 4
+2024-05-19 22:55:35,829 Prediction: 2 for Product_ID 6
+2024-05-19 22:55:36,266 Prediction: 12 for Product_ID 10
+2024-05-19 22:55:36,713 Prediction: 2 for Product_ID 14
+2024-05-19 22:55:37,162 Prediction: 0 for Product_ID 15
+2024-05-19 22:55:37,633 Prediction: 10 for Product_ID 16
+2024-05-19 22:55:37,633 127.0.0.1 - - [19/May/2024 22:55:37] "POST /predict HTTP/1.1" 200 -
+2024-05-19 22:55:50,108 Prediction: 26 for Product_ID 1
+2024-05-19 22:55:50,508 Prediction: 5 for Product_ID 2
+2024-05-19 22:55:50,985 Prediction: 10 for Product_ID 3
+2024-05-19 22:55:52,259 Prediction: 5 for Product_ID 4
+2024-05-19 22:55:52,678 Prediction: 2 for Product_ID 6
+2024-05-19 22:55:53,107 Prediction: 12 for Product_ID 10
+2024-05-19 22:55:53,542 Prediction: 2 for Product_ID 14
+2024-05-19 22:55:54,886 Prediction: 0 for Product_ID 15
+2024-05-19 22:55:55,335 Prediction: 10 for Product_ID 16
+2024-05-19 22:55:55,337 127.0.0.1 - - [19/May/2024 22:55:55] "POST /predict HTTP/1.1" 200 -
+2024-05-19 22:56:43,124 Prediction: 26 for Product_ID 1
+2024-05-19 22:56:43,576 Prediction: 5 for Product_ID 2
+2024-05-19 22:56:44,030 Prediction: 10 for Product_ID 3
+2024-05-19 22:56:44,797 Prediction: 5 for Product_ID 4
+2024-05-19 22:56:45,216 Prediction: 2 for Product_ID 6
+2024-05-19 22:56:45,656 Prediction: 12 for Product_ID 10
+2024-05-19 22:56:46,101 Prediction: 2 for Product_ID 14
+2024-05-19 22:56:46,545 Prediction: 0 for Product_ID 15
+2024-05-19 22:56:47,008 Prediction: 10 for Product_ID 16
+2024-05-19 22:56:47,009 127.0.0.1 - - [19/May/2024 22:56:47] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:00:33,922 Prediction: 26 for Product_ID 1
+2024-05-19 23:00:34,381 Prediction: 5 for Product_ID 2
+2024-05-19 23:00:34,868 Prediction: 10 for Product_ID 3
+2024-05-19 23:00:35,359 Prediction: 5 for Product_ID 4
+2024-05-19 23:00:35,801 Prediction: 2 for Product_ID 6
+2024-05-19 23:00:36,249 Prediction: 12 for Product_ID 10
+2024-05-19 23:00:36,721 Prediction: 2 for Product_ID 14
+2024-05-19 23:00:37,167 Prediction: 0 for Product_ID 15
+2024-05-19 23:00:37,599 Prediction: 10 for Product_ID 16
+2024-05-19 23:00:37,599 127.0.0.1 - - [19/May/2024 23:00:37] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:07:24,873 Prediction: 26 for Product_ID 1
+2024-05-19 23:07:25,364 Prediction: 5 for Product_ID 2
+2024-05-19 23:07:25,814 Prediction: 10 for Product_ID 3
+2024-05-19 23:07:26,262 Prediction: 5 for Product_ID 4
+2024-05-19 23:07:26,698 Prediction: 2 for Product_ID 6
+2024-05-19 23:07:27,159 Prediction: 12 for Product_ID 10
+2024-05-19 23:07:27,666 Prediction: 2 for Product_ID 14
+2024-05-19 23:07:28,107 Prediction: 0 for Product_ID 15
+2024-05-19 23:07:28,588 Prediction: 10 for Product_ID 16
+2024-05-19 23:07:28,588 127.0.0.1 - - [19/May/2024 23:07:28] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:07:32,166 Prediction: 26 for Product_ID 1
+2024-05-19 23:07:32,713 Prediction: 5 for Product_ID 2
+2024-05-19 23:07:33,187 Prediction: 10 for Product_ID 3
+2024-05-19 23:07:33,629 Prediction: 5 for Product_ID 4
+2024-05-19 23:07:34,120 Prediction: 2 for Product_ID 6
+2024-05-19 23:07:34,558 Prediction: 12 for Product_ID 10
+2024-05-19 23:07:35,022 Prediction: 2 for Product_ID 14
+2024-05-19 23:07:35,442 Prediction: 0 for Product_ID 15
+2024-05-19 23:07:35,868 Prediction: 10 for Product_ID 16
+2024-05-19 23:07:35,868 127.0.0.1 - - [19/May/2024 23:07:35] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:08:11,233 Prediction: 26 for Product_ID 1
+2024-05-19 23:08:11,244 Prediction: 26 for Product_ID 1
+2024-05-19 23:08:11,697 Prediction: 5 for Product_ID 2
+2024-05-19 23:08:11,715 Prediction: 5 for Product_ID 2
+2024-05-19 23:08:12,214 Prediction: 10 for Product_ID 3
+2024-05-19 23:08:12,225 Prediction: 10 for Product_ID 3
+2024-05-19 23:08:12,685 Prediction: 5 for Product_ID 4
+2024-05-19 23:08:12,699 Prediction: 5 for Product_ID 4
+2024-05-19 23:08:13,137 Prediction: 2 for Product_ID 6
+2024-05-19 23:08:13,179 Prediction: 2 for Product_ID 6
+2024-05-19 23:08:13,613 Prediction: 12 for Product_ID 10
+2024-05-19 23:08:13,659 Prediction: 12 for Product_ID 10
+2024-05-19 23:08:14,074 Prediction: 2 for Product_ID 14
+2024-05-19 23:08:14,088 Prediction: 2 for Product_ID 14
+2024-05-19 23:08:14,543 Prediction: 0 for Product_ID 15
+2024-05-19 23:08:14,596 Prediction: 0 for Product_ID 15
+2024-05-19 23:08:14,985 Prediction: 10 for Product_ID 16
+2024-05-19 23:08:14,986 127.0.0.1 - - [19/May/2024 23:08:14] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:08:15,016 Prediction: 10 for Product_ID 16
+2024-05-19 23:08:15,017 127.0.0.1 - - [19/May/2024 23:08:15] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:09:58,991 Prediction: 26 for Product_ID 1
+2024-05-19 23:09:59,135 Prediction: 26 for Product_ID 1
+2024-05-19 23:09:59,591 Prediction: 5 for Product_ID 2
+2024-05-19 23:10:00,060 Prediction: 10 for Product_ID 3
+2024-05-19 23:10:00,495 Prediction: 5 for Product_ID 2
+2024-05-19 23:10:00,547 Prediction: 5 for Product_ID 4
+2024-05-19 23:10:00,967 Prediction: 10 for Product_ID 3
+2024-05-19 23:10:01,004 Prediction: 2 for Product_ID 6
+2024-05-19 23:10:01,466 Prediction: 5 for Product_ID 4
+2024-05-19 23:10:01,478 Prediction: 12 for Product_ID 10
+2024-05-19 23:10:01,988 Prediction: 2 for Product_ID 6
+2024-05-19 23:10:02,000 Prediction: 2 for Product_ID 14
+2024-05-19 23:10:02,642 Prediction: 0 for Product_ID 15
+2024-05-19 23:10:02,662 Prediction: 12 for Product_ID 10
+2024-05-19 23:10:03,339 Prediction: 2 for Product_ID 14
+2024-05-19 23:10:03,339 Prediction: 10 for Product_ID 16
+2024-05-19 23:10:03,340 127.0.0.1 - - [19/May/2024 23:10:03] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:10:06,928 Prediction: 0 for Product_ID 15
+2024-05-19 23:10:07,398 Prediction: 10 for Product_ID 16
+2024-05-19 23:10:07,399 127.0.0.1 - - [19/May/2024 23:10:07] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:12:23,186 Prediction: 26 for Product_ID 1
+2024-05-19 23:12:23,198 Prediction: 26 for Product_ID 1
+2024-05-19 23:12:23,676 Prediction: 5 for Product_ID 2
+2024-05-19 23:12:23,702 Prediction: 5 for Product_ID 2
+2024-05-19 23:12:24,185 Prediction: 10 for Product_ID 3
+2024-05-19 23:12:24,203 Prediction: 10 for Product_ID 3
+2024-05-19 23:12:24,653 Prediction: 5 for Product_ID 4
+2024-05-19 23:12:24,674 Prediction: 5 for Product_ID 4
+2024-05-19 23:12:25,102 Prediction: 2 for Product_ID 6
+2024-05-19 23:12:25,145 Prediction: 2 for Product_ID 6
+2024-05-19 23:12:25,541 Prediction: 12 for Product_ID 10
+2024-05-19 23:12:25,635 Prediction: 12 for Product_ID 10
+2024-05-19 23:12:26,069 Prediction: 2 for Product_ID 14
+2024-05-19 23:12:26,131 Prediction: 2 for Product_ID 14
+2024-05-19 23:12:26,511 Prediction: 0 for Product_ID 15
+2024-05-19 23:12:26,594 Prediction: 0 for Product_ID 15
+2024-05-19 23:12:26,991 Prediction: 10 for Product_ID 16
+2024-05-19 23:12:26,992 127.0.0.1 - - [19/May/2024 23:12:26] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:12:27,038 Prediction: 10 for Product_ID 16
+2024-05-19 23:12:27,038 127.0.0.1 - - [19/May/2024 23:12:27] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:12:34,328 Prediction: 26 for Product_ID 1
+2024-05-19 23:12:34,332 Prediction: 26 for Product_ID 1
+2024-05-19 23:12:34,762 Prediction: 5 for Product_ID 2
+2024-05-19 23:12:34,821 Prediction: 5 for Product_ID 2
+2024-05-19 23:12:35,246 Prediction: 10 for Product_ID 3
+2024-05-19 23:12:35,315 Prediction: 10 for Product_ID 3
+2024-05-19 23:12:35,735 Prediction: 5 for Product_ID 4
+2024-05-19 23:12:35,775 Prediction: 5 for Product_ID 4
+2024-05-19 23:12:36,180 Prediction: 2 for Product_ID 6
+2024-05-19 23:12:36,230 Prediction: 2 for Product_ID 6
+2024-05-19 23:12:36,696 Prediction: 12 for Product_ID 10
+2024-05-19 23:12:36,738 Prediction: 12 for Product_ID 10
+2024-05-19 23:12:37,180 Prediction: 2 for Product_ID 14
+2024-05-19 23:12:37,185 Prediction: 2 for Product_ID 14
+2024-05-19 23:12:37,674 Prediction: 0 for Product_ID 15
+2024-05-19 23:12:37,693 Prediction: 0 for Product_ID 15
+2024-05-19 23:12:38,143 Prediction: 10 for Product_ID 16
+2024-05-19 23:12:38,143 127.0.0.1 - - [19/May/2024 23:12:38] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:12:38,189 Prediction: 10 for Product_ID 16
+2024-05-19 23:12:38,189 127.0.0.1 - - [19/May/2024 23:12:38] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:13:38,282 Prediction: 26 for Product_ID 1
+2024-05-19 23:13:38,296 Prediction: 26 for Product_ID 1
+2024-05-19 23:13:38,720 Prediction: 5 for Product_ID 2
+2024-05-19 23:13:38,775 Prediction: 5 for Product_ID 2
+2024-05-19 23:13:39,190 Prediction: 10 for Product_ID 3
+2024-05-19 23:13:39,265 Prediction: 10 for Product_ID 3
+2024-05-19 23:13:39,637 Prediction: 5 for Product_ID 4
+2024-05-19 23:13:39,734 Prediction: 5 for Product_ID 4
+2024-05-19 23:13:40,080 Prediction: 2 for Product_ID 6
+2024-05-19 23:13:40,196 Prediction: 2 for Product_ID 6
+2024-05-19 23:13:40,532 Prediction: 12 for Product_ID 10
+2024-05-19 23:13:40,645 Prediction: 12 for Product_ID 10
+2024-05-19 23:13:41,039 Prediction: 2 for Product_ID 14
+2024-05-19 23:13:41,097 Prediction: 2 for Product_ID 14
+2024-05-19 23:13:41,473 Prediction: 0 for Product_ID 15
+2024-05-19 23:13:41,555 Prediction: 0 for Product_ID 15
+2024-05-19 23:13:41,915 Prediction: 10 for Product_ID 16
+2024-05-19 23:13:41,916 127.0.0.1 - - [19/May/2024 23:13:41] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:13:41,986 Prediction: 10 for Product_ID 16
+2024-05-19 23:13:41,987 127.0.0.1 - - [19/May/2024 23:13:41] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:14:05,404 Prediction: 26 for Product_ID 1
+2024-05-19 23:14:05,486 Prediction: 26 for Product_ID 1
+2024-05-19 23:14:05,980 Prediction: 5 for Product_ID 2
+2024-05-19 23:14:05,985 Prediction: 5 for Product_ID 2
+2024-05-19 23:14:06,483 Prediction: 10 for Product_ID 3
+2024-05-19 23:14:06,489 Prediction: 10 for Product_ID 3
+2024-05-19 23:14:06,937 Prediction: 5 for Product_ID 4
+2024-05-19 23:14:06,955 Prediction: 5 for Product_ID 4
+2024-05-19 23:14:07,435 Prediction: 2 for Product_ID 6
+2024-05-19 23:14:07,481 Prediction: 2 for Product_ID 6
+2024-05-19 23:14:07,888 Prediction: 12 for Product_ID 10
+2024-05-19 23:14:07,972 Prediction: 12 for Product_ID 10
+2024-05-19 23:14:08,300 Prediction: 2 for Product_ID 14
+2024-05-19 23:14:08,414 Prediction: 2 for Product_ID 14
+2024-05-19 23:14:08,745 Prediction: 0 for Product_ID 15
+2024-05-19 23:14:08,884 Prediction: 0 for Product_ID 15
+2024-05-19 23:14:09,229 Prediction: 10 for Product_ID 16
+2024-05-19 23:14:09,229 127.0.0.1 - - [19/May/2024 23:14:09] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:14:09,338 Prediction: 10 for Product_ID 16
+2024-05-19 23:14:09,338 127.0.0.1 - - [19/May/2024 23:14:09] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:14:32,072 Prediction: 26 for Product_ID 1
+2024-05-19 23:14:32,089 Prediction: 26 for Product_ID 1
+2024-05-19 23:14:32,557 Prediction: 5 for Product_ID 2
+2024-05-19 23:14:32,587 Prediction: 5 for Product_ID 2
+2024-05-19 23:14:33,021 Prediction: 10 for Product_ID 3
+2024-05-19 23:14:33,095 Prediction: 10 for Product_ID 3
+2024-05-19 23:14:33,501 Prediction: 5 for Product_ID 4
+2024-05-19 23:14:33,886 Prediction: 5 for Product_ID 4
+2024-05-19 23:14:34,216 Prediction: 2 for Product_ID 6
+2024-05-19 23:14:34,335 Prediction: 2 for Product_ID 6
+2024-05-19 23:14:34,673 Prediction: 12 for Product_ID 10
+2024-05-19 23:14:34,802 Prediction: 12 for Product_ID 10
+2024-05-19 23:14:35,126 Prediction: 2 for Product_ID 14
+2024-05-19 23:14:35,276 Prediction: 2 for Product_ID 14
+2024-05-19 23:14:35,596 Prediction: 0 for Product_ID 15
+2024-05-19 23:14:35,884 Prediction: 0 for Product_ID 15
+2024-05-19 23:14:36,062 Prediction: 10 for Product_ID 16
+2024-05-19 23:14:36,062 127.0.0.1 - - [19/May/2024 23:14:36] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:14:36,375 Prediction: 10 for Product_ID 16
+2024-05-19 23:14:36,376 127.0.0.1 - - [19/May/2024 23:14:36] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:15:17,027 Prediction: 26 for Product_ID 1
+2024-05-19 23:15:17,031 Prediction: 26 for Product_ID 1
+2024-05-19 23:15:17,494 Prediction: 5 for Product_ID 2
+2024-05-19 23:15:17,512 Prediction: 5 for Product_ID 2
+2024-05-19 23:15:17,968 Prediction: 10 for Product_ID 3
+2024-05-19 23:15:17,977 Prediction: 10 for Product_ID 3
+2024-05-19 23:15:18,435 Prediction: 5 for Product_ID 4
+2024-05-19 23:15:18,451 Prediction: 5 for Product_ID 4
+2024-05-19 23:15:18,912 Prediction: 2 for Product_ID 6
+2024-05-19 23:15:18,928 Prediction: 2 for Product_ID 6
+2024-05-19 23:15:19,346 Prediction: 12 for Product_ID 10
+2024-05-19 23:15:19,386 Prediction: 12 for Product_ID 10
+2024-05-19 23:15:19,811 Prediction: 2 for Product_ID 14
+2024-05-19 23:15:19,822 Prediction: 2 for Product_ID 14
+2024-05-19 23:15:20,307 Prediction: 0 for Product_ID 15
+2024-05-19 23:15:20,319 Prediction: 0 for Product_ID 15
+2024-05-19 23:15:20,764 Prediction: 10 for Product_ID 16
+2024-05-19 23:15:20,765 127.0.0.1 - - [19/May/2024 23:15:20] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:15:20,777 Prediction: 10 for Product_ID 16
+2024-05-19 23:15:20,777 127.0.0.1 - - [19/May/2024 23:15:20] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:21:35,341 Prediction: 24 for Product_ID 1
+2024-05-19 23:21:35,351 Prediction: 24 for Product_ID 1
+2024-05-19 23:21:35,803 Prediction: 5 for Product_ID 2
+2024-05-19 23:21:35,817 Prediction: 5 for Product_ID 2
+2024-05-19 23:21:36,245 Prediction: 10 for Product_ID 3
+2024-05-19 23:21:36,325 Prediction: 10 for Product_ID 3
+2024-05-19 23:21:36,732 Prediction: 6 for Product_ID 4
+2024-05-19 23:21:36,858 Prediction: 6 for Product_ID 4
+2024-05-19 23:21:37,201 Prediction: 2 for Product_ID 6
+2024-05-19 23:21:37,322 Prediction: 2 for Product_ID 6
+2024-05-19 23:21:37,682 Prediction: 12 for Product_ID 10
+2024-05-19 23:21:37,785 Prediction: 12 for Product_ID 10
+2024-05-19 23:21:38,127 Prediction: 4 for Product_ID 14
+2024-05-19 23:21:38,216 Prediction: 4 for Product_ID 14
+2024-05-19 23:21:38,552 Prediction: 0 for Product_ID 15
+2024-05-19 23:21:38,644 Prediction: 0 for Product_ID 15
+2024-05-19 23:21:39,054 Prediction: 10 for Product_ID 16
+2024-05-19 23:21:39,054 127.0.0.1 - - [19/May/2024 23:21:39] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:21:39,097 Prediction: 10 for Product_ID 16
+2024-05-19 23:21:39,098 127.0.0.1 - - [19/May/2024 23:21:39] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:21:51,207 Prediction: 24 for Product_ID 1
+2024-05-19 23:21:51,212 Prediction: 24 for Product_ID 1
+2024-05-19 23:21:51,734 Prediction: 5 for Product_ID 2
+2024-05-19 23:21:51,742 Prediction: 5 for Product_ID 2
+2024-05-19 23:21:52,198 Prediction: 10 for Product_ID 3
+2024-05-19 23:21:52,233 Prediction: 10 for Product_ID 3
+2024-05-19 23:21:52,665 Prediction: 6 for Product_ID 4
+2024-05-19 23:21:52,745 Prediction: 6 for Product_ID 4
+2024-05-19 23:21:53,097 Prediction: 2 for Product_ID 6
+2024-05-19 23:21:53,192 Prediction: 2 for Product_ID 6
+2024-05-19 23:21:53,541 Prediction: 12 for Product_ID 10
+2024-05-19 23:21:53,683 Prediction: 12 for Product_ID 10
+2024-05-19 23:21:53,992 Prediction: 4 for Product_ID 14
+2024-05-19 23:21:54,128 Prediction: 4 for Product_ID 14
+2024-05-19 23:21:54,448 Prediction: 0 for Product_ID 15
+2024-05-19 23:21:54,602 Prediction: 0 for Product_ID 15
+2024-05-19 23:21:54,917 Prediction: 10 for Product_ID 16
+2024-05-19 23:21:54,918 127.0.0.1 - - [19/May/2024 23:21:54] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:21:55,071 Prediction: 10 for Product_ID 16
+2024-05-19 23:21:55,071 127.0.0.1 - - [19/May/2024 23:21:55] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:22:18,889 Prediction: 22 for Product_ID 1
+2024-05-19 23:22:18,949 Prediction: 22 for Product_ID 1
+2024-05-19 23:22:19,357 Prediction: 6 for Product_ID 2
+2024-05-19 23:22:19,385 Prediction: 6 for Product_ID 2
+2024-05-19 23:22:19,863 Prediction: 10 for Product_ID 3
+2024-05-19 23:22:19,872 Prediction: 10 for Product_ID 3
+2024-05-19 23:22:20,305 Prediction: 6 for Product_ID 4
+2024-05-19 23:22:20,367 Prediction: 6 for Product_ID 4
+2024-05-19 23:22:20,755 Prediction: 2 for Product_ID 6
+2024-05-19 23:22:20,787 Prediction: 2 for Product_ID 6
+2024-05-19 23:22:21,213 Prediction: 12 for Product_ID 10
+2024-05-19 23:22:21,256 Prediction: 12 for Product_ID 10
+2024-05-19 23:22:21,658 Prediction: 4 for Product_ID 14
+2024-05-19 23:22:21,695 Prediction: 4 for Product_ID 14
+2024-05-19 23:22:22,124 Prediction: 0 for Product_ID 15
+2024-05-19 23:22:22,134 Prediction: 0 for Product_ID 15
+2024-05-19 23:22:22,681 Prediction: 10 for Product_ID 16
+2024-05-19 23:22:22,682 127.0.0.1 - - [19/May/2024 23:22:22] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:22:22,693 Prediction: 10 for Product_ID 16
+2024-05-19 23:22:22,693 127.0.0.1 - - [19/May/2024 23:22:22] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:22:50,815 Prediction: 22 for Product_ID 1
+2024-05-19 23:22:50,816 Prediction: 22 for Product_ID 1
+2024-05-19 23:22:51,258 Prediction: 6 for Product_ID 2
+2024-05-19 23:22:51,262 Prediction: 6 for Product_ID 2
+2024-05-19 23:22:51,730 Prediction: 10 for Product_ID 3
+2024-05-19 23:22:51,776 Prediction: 10 for Product_ID 3
+2024-05-19 23:22:52,223 Prediction: 6 for Product_ID 4
+2024-05-19 23:22:52,241 Prediction: 6 for Product_ID 4
+2024-05-19 23:22:52,680 Prediction: 2 for Product_ID 6
+2024-05-19 23:22:52,688 Prediction: 2 for Product_ID 6
+2024-05-19 23:22:53,157 Prediction: 12 for Product_ID 10
+2024-05-19 23:22:53,172 Prediction: 12 for Product_ID 10
+2024-05-19 23:22:53,594 Prediction: 4 for Product_ID 14
+2024-05-19 23:22:53,608 Prediction: 4 for Product_ID 14
+2024-05-19 23:22:54,088 Prediction: 0 for Product_ID 15
+2024-05-19 23:22:54,094 Prediction: 0 for Product_ID 15
+2024-05-19 23:22:54,528 Prediction: 10 for Product_ID 16
+2024-05-19 23:22:54,530 127.0.0.1 - - [19/May/2024 23:22:54] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:22:54,547 Prediction: 10 for Product_ID 16
+2024-05-19 23:22:54,548 127.0.0.1 - - [19/May/2024 23:22:54] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:23:17,645 Prediction: 22 for Product_ID 1
+2024-05-19 23:23:17,656 Prediction: 22 for Product_ID 1
+2024-05-19 23:23:18,089 Prediction: 6 for Product_ID 2
+2024-05-19 23:23:18,101 Prediction: 6 for Product_ID 2
+2024-05-19 23:23:18,559 Prediction: 10 for Product_ID 3
+2024-05-19 23:23:18,605 Prediction: 10 for Product_ID 3
+2024-05-19 23:23:18,997 Prediction: 6 for Product_ID 4
+2024-05-19 23:23:19,040 Prediction: 6 for Product_ID 4
+2024-05-19 23:23:19,438 Prediction: 2 for Product_ID 6
+2024-05-19 23:23:19,519 Prediction: 2 for Product_ID 6
+2024-05-19 23:23:19,907 Prediction: 12 for Product_ID 10
+2024-05-19 23:23:19,979 Prediction: 12 for Product_ID 10
+2024-05-19 23:23:20,364 Prediction: 4 for Product_ID 14
+2024-05-19 23:23:20,426 Prediction: 4 for Product_ID 14
+2024-05-19 23:23:20,841 Prediction: 0 for Product_ID 15
+2024-05-19 23:23:20,916 Prediction: 0 for Product_ID 15
+2024-05-19 23:23:21,290 Prediction: 10 for Product_ID 16
+2024-05-19 23:23:21,291 127.0.0.1 - - [19/May/2024 23:23:21] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:23:21,363 Prediction: 10 for Product_ID 16
+2024-05-19 23:23:21,364 127.0.0.1 - - [19/May/2024 23:23:21] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:23:41,936 Prediction: 22 for Product_ID 1
+2024-05-19 23:23:41,947 Prediction: 22 for Product_ID 1
+2024-05-19 23:23:42,378 Prediction: 6 for Product_ID 2
+2024-05-19 23:23:42,388 Prediction: 6 for Product_ID 2
+2024-05-19 23:23:42,843 Prediction: 10 for Product_ID 3
+2024-05-19 23:23:42,915 Prediction: 10 for Product_ID 3
+2024-05-19 23:23:43,300 Prediction: 6 for Product_ID 4
+2024-05-19 23:23:43,345 Prediction: 6 for Product_ID 4
+2024-05-19 23:23:43,768 Prediction: 2 for Product_ID 6
+2024-05-19 23:23:43,806 Prediction: 2 for Product_ID 6
+2024-05-19 23:23:44,230 Prediction: 12 for Product_ID 10
+2024-05-19 23:23:44,271 Prediction: 12 for Product_ID 10
+2024-05-19 23:23:44,653 Prediction: 4 for Product_ID 14
+2024-05-19 23:23:44,730 Prediction: 4 for Product_ID 14
+2024-05-19 23:23:45,128 Prediction: 0 for Product_ID 15
+2024-05-19 23:23:45,207 Prediction: 0 for Product_ID 15
+2024-05-19 23:23:45,571 Prediction: 10 for Product_ID 16
+2024-05-19 23:23:45,571 127.0.0.1 - - [19/May/2024 23:23:45] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:23:45,629 Prediction: 10 for Product_ID 16
+2024-05-19 23:23:45,629 127.0.0.1 - - [19/May/2024 23:23:45] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:23:52,395 Prediction: 22 for Product_ID 1
+2024-05-19 23:23:52,460 Prediction: 22 for Product_ID 1
+2024-05-19 23:23:52,870 Prediction: 6 for Product_ID 2
+2024-05-19 23:23:52,917 Prediction: 6 for Product_ID 2
+2024-05-19 23:23:53,339 Prediction: 10 for Product_ID 3
+2024-05-19 23:23:53,398 Prediction: 10 for Product_ID 3
+2024-05-19 23:23:53,831 Prediction: 6 for Product_ID 4
+2024-05-19 23:23:53,873 Prediction: 6 for Product_ID 4
+2024-05-19 23:23:54,297 Prediction: 2 for Product_ID 6
+2024-05-19 23:23:54,340 Prediction: 2 for Product_ID 6
+2024-05-19 23:23:54,761 Prediction: 12 for Product_ID 10
+2024-05-19 23:23:54,843 Prediction: 12 for Product_ID 10
+2024-05-19 23:23:55,211 Prediction: 4 for Product_ID 14
+2024-05-19 23:23:55,337 Prediction: 4 for Product_ID 14
+2024-05-19 23:23:55,734 Prediction: 0 for Product_ID 15
+2024-05-19 23:23:55,775 Prediction: 0 for Product_ID 15
+2024-05-19 23:23:56,184 Prediction: 10 for Product_ID 16
+2024-05-19 23:23:56,184 127.0.0.1 - - [19/May/2024 23:23:56] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:23:56,289 Prediction: 10 for Product_ID 16
+2024-05-19 23:23:56,290 127.0.0.1 - - [19/May/2024 23:23:56] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:24:12,679 Prediction: 22 for Product_ID 1
+2024-05-19 23:24:12,685 Prediction: 22 for Product_ID 1
+2024-05-19 23:24:13,139 Prediction: 6 for Product_ID 2
+2024-05-19 23:24:13,155 Prediction: 6 for Product_ID 2
+2024-05-19 23:24:13,654 Prediction: 10 for Product_ID 3
+2024-05-19 23:24:13,666 Prediction: 10 for Product_ID 3
+2024-05-19 23:24:14,126 Prediction: 6 for Product_ID 4
+2024-05-19 23:24:14,127 Prediction: 6 for Product_ID 4
+2024-05-19 23:24:14,554 Prediction: 2 for Product_ID 6
+2024-05-19 23:24:14,632 Prediction: 2 for Product_ID 6
+2024-05-19 23:24:15,019 Prediction: 12 for Product_ID 10
+2024-05-19 23:24:15,096 Prediction: 12 for Product_ID 10
+2024-05-19 23:24:15,476 Prediction: 4 for Product_ID 14
+2024-05-19 23:24:15,539 Prediction: 4 for Product_ID 14
+2024-05-19 23:24:15,923 Prediction: 0 for Product_ID 15
+2024-05-19 23:24:16,000 Prediction: 0 for Product_ID 15
+2024-05-19 23:24:16,383 Prediction: 10 for Product_ID 16
+2024-05-19 23:24:16,383 127.0.0.1 - - [19/May/2024 23:24:16] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:24:16,426 Prediction: 10 for Product_ID 16
+2024-05-19 23:24:16,426 127.0.0.1 - - [19/May/2024 23:24:16] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:27:08,927 Prediction: 22 for Product_ID 1
+2024-05-19 23:27:08,943 Prediction: 22 for Product_ID 1
+2024-05-19 23:27:09,370 Prediction: 6 for Product_ID 2
+2024-05-19 23:27:09,407 Prediction: 6 for Product_ID 2
+2024-05-19 23:27:09,860 Prediction: 10 for Product_ID 3
+2024-05-19 23:27:09,907 Prediction: 10 for Product_ID 3
+2024-05-19 23:27:10,338 Prediction: 6 for Product_ID 4
+2024-05-19 23:27:10,356 Prediction: 6 for Product_ID 4
+2024-05-19 23:27:10,838 Prediction: 2 for Product_ID 6
+2024-05-19 23:27:10,853 Prediction: 2 for Product_ID 6
+2024-05-19 23:27:11,309 Prediction: 12 for Product_ID 10
+2024-05-19 23:27:11,352 Prediction: 12 for Product_ID 10
+2024-05-19 23:27:11,768 Prediction: 4 for Product_ID 14
+2024-05-19 23:27:11,845 Prediction: 4 for Product_ID 14
+2024-05-19 23:27:12,196 Prediction: 0 for Product_ID 15
+2024-05-19 23:27:12,310 Prediction: 0 for Product_ID 15
+2024-05-19 23:27:12,649 Prediction: 10 for Product_ID 16
+2024-05-19 23:27:12,649 127.0.0.1 - - [19/May/2024 23:27:12] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:27:12,779 Prediction: 10 for Product_ID 16
+2024-05-19 23:27:12,780 127.0.0.1 - - [19/May/2024 23:27:12] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:28:55,220 Prediction: 24 for Product_ID 1
+2024-05-19 23:28:55,234 Prediction: 24 for Product_ID 1
+2024-05-19 23:28:55,647 Prediction: 5 for Product_ID 2
+2024-05-19 23:28:55,690 Prediction: 5 for Product_ID 2
+2024-05-19 23:28:56,203 Prediction: 10 for Product_ID 3
+2024-05-19 23:28:56,203 Prediction: 10 for Product_ID 3
+2024-05-19 23:28:56,656 Prediction: 6 for Product_ID 4
+2024-05-19 23:28:56,669 Prediction: 6 for Product_ID 4
+2024-05-19 23:28:57,105 Prediction: 2 for Product_ID 6
+2024-05-19 23:28:57,140 Prediction: 2 for Product_ID 6
+2024-05-19 23:28:57,591 Prediction: 12 for Product_ID 10
+2024-05-19 23:28:57,602 Prediction: 12 for Product_ID 10
+2024-05-19 23:28:58,014 Prediction: 4 for Product_ID 14
+2024-05-19 23:28:58,027 Prediction: 4 for Product_ID 14
+2024-05-19 23:28:58,475 Prediction: 0 for Product_ID 15
+2024-05-19 23:28:58,476 Prediction: 0 for Product_ID 15
+2024-05-19 23:28:58,915 Prediction: 10 for Product_ID 16
+2024-05-19 23:28:58,915 127.0.0.1 - - [19/May/2024 23:28:58] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:28:58,921 Prediction: 10 for Product_ID 16
+2024-05-19 23:28:58,922 127.0.0.1 - - [19/May/2024 23:28:58] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:31:19,695 Prediction: 24 for Product_ID 1
+2024-05-19 23:31:19,707 Prediction: 24 for Product_ID 1
+2024-05-19 23:31:20,149 Prediction: 5 for Product_ID 2
+2024-05-19 23:31:20,171 Prediction: 5 for Product_ID 2
+2024-05-19 23:31:20,644 Prediction: 10 for Product_ID 3
+2024-05-19 23:31:20,666 Prediction: 10 for Product_ID 3
+2024-05-19 23:31:21,099 Prediction: 6 for Product_ID 4
+2024-05-19 23:31:21,136 Prediction: 6 for Product_ID 4
+2024-05-19 23:31:21,548 Prediction: 2 for Product_ID 6
+2024-05-19 23:31:21,560 Prediction: 2 for Product_ID 6
+2024-05-19 23:31:22,227 Prediction: 12 for Product_ID 10
+2024-05-19 23:31:22,239 Prediction: 12 for Product_ID 10
+2024-05-19 23:31:22,674 Prediction: 4 for Product_ID 14
+2024-05-19 23:31:22,689 Prediction: 4 for Product_ID 14
+2024-05-19 23:31:23,126 Prediction: 0 for Product_ID 15
+2024-05-19 23:31:23,172 Prediction: 0 for Product_ID 15
+2024-05-19 23:31:23,627 Prediction: 10 for Product_ID 16
+2024-05-19 23:31:23,628 127.0.0.1 - - [19/May/2024 23:31:23] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:31:23,638 Prediction: 10 for Product_ID 16
+2024-05-19 23:31:23,639 127.0.0.1 - - [19/May/2024 23:31:23] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:31:28,840 Prediction: 24 for Product_ID 1
+2024-05-19 23:31:28,855 Prediction: 24 for Product_ID 1
+2024-05-19 23:31:29,317 Prediction: 5 for Product_ID 2
+2024-05-19 23:31:29,350 Prediction: 5 for Product_ID 2
+2024-05-19 23:31:29,796 Prediction: 10 for Product_ID 3
+2024-05-19 23:31:29,834 Prediction: 10 for Product_ID 3
+2024-05-19 23:31:30,294 Prediction: 6 for Product_ID 4
+2024-05-19 23:31:30,308 Prediction: 6 for Product_ID 4
+2024-05-19 23:31:30,747 Prediction: 2 for Product_ID 6
+2024-05-19 23:31:30,759 Prediction: 2 for Product_ID 6
+2024-05-19 23:31:31,174 Prediction: 12 for Product_ID 10
+2024-05-19 23:31:31,219 Prediction: 12 for Product_ID 10
+2024-05-19 23:31:31,638 Prediction: 4 for Product_ID 14
+2024-05-19 23:31:31,679 Prediction: 4 for Product_ID 14
+2024-05-19 23:31:33,128 Prediction: 0 for Product_ID 15
+2024-05-19 23:31:33,135 Prediction: 0 for Product_ID 15
+2024-05-19 23:31:34,805 Prediction: 10 for Product_ID 16
+2024-05-19 23:31:34,805 127.0.0.1 - - [19/May/2024 23:31:34] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:31:34,966 Prediction: 10 for Product_ID 16
+2024-05-19 23:31:34,966 127.0.0.1 - - [19/May/2024 23:31:34] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:40:57,660 Prediction: 20 for Product_ID 1
+2024-05-19 23:40:57,671 Prediction: 20 for Product_ID 1
+2024-05-19 23:40:58,088 Prediction: 6 for Product_ID 2
+2024-05-19 23:40:58,136 Prediction: 6 for Product_ID 2
+2024-05-19 23:40:58,587 Prediction: 10 for Product_ID 3
+2024-05-19 23:40:58,601 Prediction: 10 for Product_ID 3
+2024-05-19 23:40:59,036 Prediction: 7 for Product_ID 4
+2024-05-19 23:40:59,085 Prediction: 7 for Product_ID 4
+2024-05-19 23:40:59,500 Prediction: 3 for Product_ID 6
+2024-05-19 23:40:59,594 Prediction: 3 for Product_ID 6
+2024-05-19 23:40:59,966 Prediction: 12 for Product_ID 10
+2024-05-19 23:41:00,049 Prediction: 12 for Product_ID 10
+2024-05-19 23:41:00,412 Prediction: 4 for Product_ID 14
+2024-05-19 23:41:00,552 Prediction: 4 for Product_ID 14
+2024-05-19 23:41:00,909 Prediction: 0 for Product_ID 15
+2024-05-19 23:41:01,012 Prediction: 0 for Product_ID 15
+2024-05-19 23:41:01,344 Prediction: 10 for Product_ID 16
+2024-05-19 23:41:01,344 127.0.0.1 - - [19/May/2024 23:41:01] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:41:01,464 Prediction: 10 for Product_ID 16
+2024-05-19 23:41:01,464 127.0.0.1 - - [19/May/2024 23:41:01] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:41:24,963 Prediction: 20 for Product_ID 1
+2024-05-19 23:41:24,970 Prediction: 20 for Product_ID 1
+2024-05-19 23:41:25,408 Prediction: 6 for Product_ID 2
+2024-05-19 23:41:25,442 Prediction: 6 for Product_ID 2
+2024-05-19 23:41:25,916 Prediction: 10 for Product_ID 3
+2024-05-19 23:41:25,938 Prediction: 10 for Product_ID 3
+2024-05-19 23:41:26,378 Prediction: 7 for Product_ID 4
+2024-05-19 23:41:26,390 Prediction: 7 for Product_ID 4
+2024-05-19 23:41:26,872 Prediction: 3 for Product_ID 6
+2024-05-19 23:41:26,884 Prediction: 3 for Product_ID 6
+2024-05-19 23:41:27,320 Prediction: 12 for Product_ID 10
+2024-05-19 23:41:27,333 Prediction: 12 for Product_ID 10
+2024-05-19 23:41:27,734 Prediction: 4 for Product_ID 14
+2024-05-19 23:41:27,778 Prediction: 4 for Product_ID 14
+2024-05-19 23:41:28,252 Prediction: 0 for Product_ID 15
+2024-05-19 23:41:28,283 Prediction: 0 for Product_ID 15
+2024-05-19 23:41:28,696 Prediction: 10 for Product_ID 16
+2024-05-19 23:41:28,696 127.0.0.1 - - [19/May/2024 23:41:28] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:41:28,709 Prediction: 10 for Product_ID 16
+2024-05-19 23:41:28,709 127.0.0.1 - - [19/May/2024 23:41:28] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:50:24,117 Prediction: 20 for Product_ID 1
+2024-05-19 23:50:24,132 Prediction: 20 for Product_ID 1
+2024-05-19 23:50:24,550 Prediction: 6 for Product_ID 2
+2024-05-19 23:50:24,619 Prediction: 6 for Product_ID 2
+2024-05-19 23:50:25,016 Prediction: 10 for Product_ID 3
+2024-05-19 23:50:25,115 Prediction: 10 for Product_ID 3
+2024-05-19 23:50:25,478 Prediction: 7 for Product_ID 4
+2024-05-19 23:50:25,551 Prediction: 7 for Product_ID 4
+2024-05-19 23:50:25,902 Prediction: 3 for Product_ID 6
+2024-05-19 23:50:25,996 Prediction: 3 for Product_ID 6
+2024-05-19 23:50:26,366 Prediction: 12 for Product_ID 10
+2024-05-19 23:50:26,454 Prediction: 12 for Product_ID 10
+2024-05-19 23:50:26,787 Prediction: 4 for Product_ID 14
+2024-05-19 23:50:26,983 Prediction: 4 for Product_ID 14
+2024-05-19 23:50:27,253 Prediction: 0 for Product_ID 15
+2024-05-19 23:50:27,421 Prediction: 0 for Product_ID 15
+2024-05-19 23:50:27,666 Prediction: 10 for Product_ID 16
+2024-05-19 23:50:27,667 127.0.0.1 - - [19/May/2024 23:50:27] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:50:27,882 Prediction: 10 for Product_ID 16
+2024-05-19 23:50:27,883 127.0.0.1 - - [19/May/2024 23:50:27] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:53:37,255 Prediction: 23 for Product_ID 1
+2024-05-19 23:53:37,267 Prediction: 23 for Product_ID 1
+2024-05-19 23:53:37,696 Prediction: 5 for Product_ID 2
+2024-05-19 23:53:37,709 Prediction: 5 for Product_ID 2
+2024-05-19 23:53:38,194 Prediction: 10 for Product_ID 3
+2024-05-19 23:53:38,204 Prediction: 10 for Product_ID 3
+2024-05-19 23:53:38,651 Prediction: 5 for Product_ID 4
+2024-05-19 23:53:38,666 Prediction: 5 for Product_ID 4
+2024-05-19 23:53:39,111 Prediction: 1 for Product_ID 6
+2024-05-19 23:53:39,133 Prediction: 1 for Product_ID 6
+2024-05-19 23:53:39,673 Prediction: 12 for Product_ID 10
+2024-05-19 23:53:39,673 Prediction: 12 for Product_ID 10
+2024-05-19 23:53:40,106 Prediction: 2 for Product_ID 14
+2024-05-19 23:53:40,121 Prediction: 2 for Product_ID 14
+2024-05-19 23:53:40,575 Prediction: 0 for Product_ID 15
+2024-05-19 23:53:40,595 Prediction: 0 for Product_ID 15
+2024-05-19 23:53:41,011 Prediction: 10 for Product_ID 16
+2024-05-19 23:53:41,012 127.0.0.1 - - [19/May/2024 23:53:41] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:53:41,022 Prediction: 10 for Product_ID 16
+2024-05-19 23:53:41,023 127.0.0.1 - - [19/May/2024 23:53:41] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:55:37,749 Prediction: 23 for Product_ID 1
+2024-05-19 23:55:37,772 Prediction: 23 for Product_ID 1
+2024-05-19 23:55:38,241 Prediction: 5 for Product_ID 2
+2024-05-19 23:55:38,276 Prediction: 5 for Product_ID 2
+2024-05-19 23:55:38,977 Prediction: 10 for Product_ID 3
+2024-05-19 23:55:39,014 Prediction: 10 for Product_ID 3
+2024-05-19 23:55:41,315 Prediction: 5 for Product_ID 4
+2024-05-19 23:55:41,386 Prediction: 5 for Product_ID 4
+2024-05-19 23:55:45,269 Prediction: 1 for Product_ID 6
+2024-05-19 23:55:45,281 Prediction: 1 for Product_ID 6
+2024-05-19 23:55:45,750 Prediction: 12 for Product_ID 10
+2024-05-19 23:55:45,757 Prediction: 12 for Product_ID 10
+2024-05-19 23:55:46,208 Prediction: 2 for Product_ID 14
+2024-05-19 23:55:46,228 Prediction: 2 for Product_ID 14
+2024-05-19 23:55:46,723 Prediction: 0 for Product_ID 15
+2024-05-19 23:55:46,751 Prediction: 0 for Product_ID 15
+2024-05-19 23:55:47,190 Prediction: 10 for Product_ID 16
+2024-05-19 23:55:47,190 127.0.0.1 - - [19/May/2024 23:55:47] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:55:47,202 Prediction: 10 for Product_ID 16
+2024-05-19 23:55:47,202 127.0.0.1 - - [19/May/2024 23:55:47] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:56:52,951 Prediction: 23 for Product_ID 1
+2024-05-19 23:56:52,963 Prediction: 23 for Product_ID 1
+2024-05-19 23:56:53,441 Prediction: 5 for Product_ID 2
+2024-05-19 23:56:53,452 Prediction: 5 for Product_ID 2
+2024-05-19 23:56:53,930 Prediction: 10 for Product_ID 3
+2024-05-19 23:56:53,942 Prediction: 10 for Product_ID 3
+2024-05-19 23:56:54,378 Prediction: 5 for Product_ID 4
+2024-05-19 23:56:54,466 Prediction: 5 for Product_ID 4
+2024-05-19 23:56:54,862 Prediction: 1 for Product_ID 6
+2024-05-19 23:56:54,947 Prediction: 1 for Product_ID 6
+2024-05-19 23:56:55,312 Prediction: 12 for Product_ID 10
+2024-05-19 23:56:55,411 Prediction: 12 for Product_ID 10
+2024-05-19 23:56:55,885 Prediction: 2 for Product_ID 14
+2024-05-19 23:56:55,890 Prediction: 2 for Product_ID 14
+2024-05-19 23:56:56,327 Prediction: 0 for Product_ID 15
+2024-05-19 23:56:56,346 Prediction: 0 for Product_ID 15
+2024-05-19 23:56:56,787 Prediction: 10 for Product_ID 16
+2024-05-19 23:56:56,787 127.0.0.1 - - [19/May/2024 23:56:56] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:56:56,800 Prediction: 10 for Product_ID 16
+2024-05-19 23:56:56,801 127.0.0.1 - - [19/May/2024 23:56:56] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:59:07,169 Prediction: 23 for Product_ID 1
+2024-05-19 23:59:07,186 Prediction: 23 for Product_ID 1
+2024-05-19 23:59:07,640 Prediction: 5 for Product_ID 2
+2024-05-19 23:59:07,651 Prediction: 5 for Product_ID 2
+2024-05-19 23:59:08,100 Prediction: 10 for Product_ID 3
+2024-05-19 23:59:08,117 Prediction: 10 for Product_ID 3
+2024-05-19 23:59:08,567 Prediction: 5 for Product_ID 4
+2024-05-19 23:59:08,589 Prediction: 5 for Product_ID 4
+2024-05-19 23:59:09,031 Prediction: 1 for Product_ID 6
+2024-05-19 23:59:09,048 Prediction: 1 for Product_ID 6
+2024-05-19 23:59:09,475 Prediction: 12 for Product_ID 10
+2024-05-19 23:59:09,518 Prediction: 12 for Product_ID 10
+2024-05-19 23:59:09,988 Prediction: 2 for Product_ID 14
+2024-05-19 23:59:10,000 Prediction: 2 for Product_ID 14
+2024-05-19 23:59:10,447 Prediction: 0 for Product_ID 15
+2024-05-19 23:59:10,487 Prediction: 0 for Product_ID 15
+2024-05-19 23:59:10,904 Prediction: 10 for Product_ID 16
+2024-05-19 23:59:10,904 127.0.0.1 - - [19/May/2024 23:59:10] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:59:10,944 Prediction: 10 for Product_ID 16
+2024-05-19 23:59:10,944 127.0.0.1 - - [19/May/2024 23:59:10] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:59:24,070 Prediction: 23 for Product_ID 1
+2024-05-19 23:59:24,077 Prediction: 23 for Product_ID 1
+2024-05-19 23:59:24,533 Prediction: 5 for Product_ID 2
+2024-05-19 23:59:24,551 Prediction: 5 for Product_ID 2
+2024-05-19 23:59:25,007 Prediction: 10 for Product_ID 3
+2024-05-19 23:59:25,010 Prediction: 10 for Product_ID 3
+2024-05-19 23:59:25,445 Prediction: 5 for Product_ID 4
+2024-05-19 23:59:25,460 Prediction: 5 for Product_ID 4
+2024-05-19 23:59:25,892 Prediction: 1 for Product_ID 6
+2024-05-19 23:59:25,903 Prediction: 1 for Product_ID 6
+2024-05-19 23:59:26,351 Prediction: 12 for Product_ID 10
+2024-05-19 23:59:26,361 Prediction: 12 for Product_ID 10
+2024-05-19 23:59:26,797 Prediction: 2 for Product_ID 14
+2024-05-19 23:59:26,809 Prediction: 2 for Product_ID 14
+2024-05-19 23:59:27,248 Prediction: 0 for Product_ID 15
+2024-05-19 23:59:27,264 Prediction: 0 for Product_ID 15
+2024-05-19 23:59:27,718 Prediction: 10 for Product_ID 16
+2024-05-19 23:59:27,718 127.0.0.1 - - [19/May/2024 23:59:27] "POST /predict HTTP/1.1" 200 -
+2024-05-19 23:59:27,752 Prediction: 10 for Product_ID 16
+2024-05-19 23:59:27,752 127.0.0.1 - - [19/May/2024 23:59:27] "POST /predict HTTP/1.1" 200 -
+2024-05-20 00:00:51,643 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-20
+2024-05-20 00:00:51,644 127.0.0.1 - - [20/May/2024 00:00:51] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-20 00:00:51,644 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-20
+2024-05-20 00:00:51,644 127.0.0.1 - - [20/May/2024 00:00:51] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-20 00:01:11,506 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-20
+2024-05-20 00:01:11,506 127.0.0.1 - - [20/May/2024 00:01:11] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-20 00:01:11,511 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-20
+2024-05-20 00:01:11,512 127.0.0.1 - - [20/May/2024 00:01:11] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-20 00:12:51,615 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-20
+2024-05-20 00:12:51,615 127.0.0.1 - - [20/May/2024 00:12:51] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-20 00:12:51,618 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-20
+2024-05-20 00:12:51,620 127.0.0.1 - - [20/May/2024 00:12:51] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-20 00:14:05,002 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-20
+2024-05-20 00:14:05,002 127.0.0.1 - - [20/May/2024 00:14:05] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-20 00:14:05,009 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-20
+2024-05-20 00:14:05,009 127.0.0.1 - - [20/May/2024 00:14:05] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-20 00:14:52,575 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-20
+2024-05-20 00:14:52,576 127.0.0.1 - - [20/May/2024 00:14:52] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-20 00:14:52,584 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-20
+2024-05-20 00:14:52,585 127.0.0.1 - - [20/May/2024 00:14:52] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-20 00:18:10,350 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-20
+2024-05-20 00:18:10,350 127.0.0.1 - - [20/May/2024 00:18:10] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-20 00:19:57,754 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-20
+2024-05-20 00:19:57,755 127.0.0.1 - - [20/May/2024 00:19:57] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-20 00:22:55,885 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-20
+2024-05-20 00:22:55,886 127.0.0.1 - - [20/May/2024 00:22:55] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-20 01:33:45,144 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-20
+2024-05-20 01:33:45,145 127.0.0.1 - - [20/May/2024 01:33:45] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-20 01:34:57,006 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-20
+2024-05-20 01:34:57,007 127.0.0.1 - - [20/May/2024 01:34:57] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-20 01:49:13,612 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-20
+2024-05-20 01:49:13,613 127.0.0.1 - - [20/May/2024 01:49:13] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-20 02:01:55,627 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-20
+2024-05-20 02:01:55,627 127.0.0.1 - - [20/May/2024 02:01:55] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-20 02:08:35,912 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-20
+2024-05-20 02:08:35,913 127.0.0.1 - - [20/May/2024 02:08:35] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-20 02:12:11,137 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-20
+2024-05-20 02:12:11,138 127.0.0.1 - - [20/May/2024 02:12:11] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-20 02:18:16,199 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-20
+2024-05-20 02:18:16,199 127.0.0.1 - - [20/May/2024 02:18:16] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-20 02:19:33,703 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-20
+2024-05-20 02:19:33,704 127.0.0.1 - - [20/May/2024 02:19:33] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-20 02:21:30,865 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-20
+2024-05-20 02:21:30,865 127.0.0.1 - - [20/May/2024 02:21:30] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-20 02:25:23,638 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-20
+2024-05-20 02:25:23,639 127.0.0.1 - - [20/May/2024 02:25:23] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-20 02:25:35,923 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-20
+2024-05-20 02:25:35,923 127.0.0.1 - - [20/May/2024 02:25:35] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-20 02:35:35,731 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-20
+2024-05-20 02:35:35,731 127.0.0.1 - - [20/May/2024 02:35:35] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-21 20:58:31,354 {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 664a042ccd4c3ded39525124, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-btlxje0-shard-00-00.91fcjua.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-btlxje0-shard-00-00.91fcjua.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1123) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-btlxje0-shard-00-01.91fcjua.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-btlxje0-shard-00-01.91fcjua.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1123) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-btlxje0-shard-00-02.91fcjua.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-btlxje0-shard-00-02.91fcjua.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1123) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>", "clientId": {"$oid": "664a042ccd4c3ded39525124"}, "remainingTimeMS": 30}
+2024-05-21 20:59:01,436 Error: SSL handshake failed: ac-btlxje0-shard-00-02.91fcjua.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1123) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-btlxje0-shard-00-01.91fcjua.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1123) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-btlxje0-shard-00-00.91fcjua.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1123) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 664a042ccd4c3ded39525124, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-btlxje0-shard-00-00.91fcjua.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-btlxje0-shard-00-00.91fcjua.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1123) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-btlxje0-shard-00-01.91fcjua.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-btlxje0-shard-00-01.91fcjua.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1123) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-btlxje0-shard-00-02.91fcjua.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-btlxje0-shard-00-02.91fcjua.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1123) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2024-05-21 20:59:01,443 127.0.0.1 - - [21/May/2024 20:59:01] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-21 20:59:37,107 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-21
+2024-05-21 20:59:37,107 127.0.0.1 - - [21/May/2024 20:59:37] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-21 21:18:32,580 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-21
+2024-05-21 21:18:32,580 127.0.0.1 - - [21/May/2024 21:18:32] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-21 21:18:52,229 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-21
+2024-05-21 21:18:52,231 127.0.0.1 - - [21/May/2024 21:18:52] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-21 21:25:04,074 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-21
+2024-05-21 21:25:04,075 127.0.0.1 - - [21/May/2024 21:25:04] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-21 21:27:26,709 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-21
+2024-05-21 21:27:26,709 127.0.0.1 - - [21/May/2024 21:27:26] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-21 21:36:30,097 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-21
+2024-05-21 21:36:30,098 127.0.0.1 - - [21/May/2024 21:36:30] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-21 21:42:35,940 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-21
+2024-05-21 21:42:35,940 127.0.0.1 - - [21/May/2024 21:42:35] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-21 21:43:57,155 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-21
+2024-05-21 21:43:57,160 127.0.0.1 - - [21/May/2024 21:43:57] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-21 21:46:58,203 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-21
+2024-05-21 21:46:58,204 127.0.0.1 - - [21/May/2024 21:46:58] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-21 21:55:15,705 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-21
+2024-05-21 21:55:15,706 127.0.0.1 - - [21/May/2024 21:55:15] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-21 21:57:41,071 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-21
+2024-05-21 21:57:41,072 127.0.0.1 - - [21/May/2024 21:57:41] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-21 22:05:44,400 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-21
+2024-05-21 22:05:44,400 127.0.0.1 - - [21/May/2024 22:05:44] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-21 22:09:34,234 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-21
+2024-05-21 22:09:34,234 127.0.0.1 - - [21/May/2024 22:09:34] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-21 22:10:00,107 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-21
+2024-05-21 22:10:00,112 127.0.0.1 - - [21/May/2024 22:10:00] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-21 22:13:50,556 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-21
+2024-05-21 22:13:50,556 127.0.0.1 - - [21/May/2024 22:13:50] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-21 22:15:06,485 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-21
+2024-05-21 22:15:06,485 127.0.0.1 - - [21/May/2024 22:15:06] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-21 22:16:45,229 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-21
+2024-05-21 22:16:45,230 127.0.0.1 - - [21/May/2024 22:16:45] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-21 22:19:01,059 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-21
+2024-05-21 22:19:01,059 127.0.0.1 - - [21/May/2024 22:19:01] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-21 22:22:45,042 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-21
+2024-05-21 22:22:45,043 127.0.0.1 - - [21/May/2024 22:22:45] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-22 17:13:08,428 {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 664a042ccd4c3ded39525124, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-btlxje0-shard-00-00.91fcjua.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-btlxje0-shard-00-00.91fcjua.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1123) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-btlxje0-shard-00-01.91fcjua.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-btlxje0-shard-00-01.91fcjua.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1123) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-btlxje0-shard-00-02.91fcjua.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-btlxje0-shard-00-02.91fcjua.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1123) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>", "clientId": {"$oid": "664a042ccd4c3ded39525124"}, "remainingTimeMS": 29}
+2024-05-22 17:13:25,451 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-22
+2024-05-22 17:13:25,454 127.0.0.1 - - [22/May/2024 17:13:25] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-25 17:01:31,007 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-25
+2024-05-25 17:01:31,010 127.0.0.1 - - [25/May/2024 17:01:31] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-25 21:43:41,573 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-25 21:43:41,574 [33mPress CTRL+C to quit[0m
+2024-05-25 21:43:41,575  * Restarting with stat
+2024-05-25 21:43:43,022  * Debugger is active!
+2024-05-25 21:43:43,026  * Debugger PIN: 247-628-947
+2024-05-25 21:44:59,165 Prediction: 48 for Product_ID 1
+2024-05-25 21:44:59,654 Prediction: 13 for Product_ID 2
+2024-05-25 21:45:00,180 Prediction: 10 for Product_ID 3
+2024-05-25 21:45:00,702 Prediction: 6 for Product_ID 4
+2024-05-25 21:45:01,208 Prediction: 2 for Product_ID 6
+2024-05-25 21:45:01,762 Prediction: 9 for Product_ID 10
+2024-05-25 21:45:02,665 Prediction: 3 for Product_ID 14
+2024-05-25 21:45:03,365 Prediction: 0 for Product_ID 15
+2024-05-25 21:45:03,920 Prediction: 11 for Product_ID 16
+2024-05-25 21:45:03,920 127.0.0.1 - - [25/May/2024 21:45:03] "POST /predict HTTP/1.1" 200 -
+2024-05-25 22:04:11,245 Prediction: 48 for Product_ID 1
+2024-05-25 22:04:11,819 Prediction: 13 for Product_ID 2
+2024-05-25 22:04:12,314 Prediction: 10 for Product_ID 3
+2024-05-25 22:04:12,814 Prediction: 6 for Product_ID 4
+2024-05-25 22:04:13,338 Prediction: 2 for Product_ID 6
+2024-05-25 22:04:13,886 Prediction: 9 for Product_ID 10
+2024-05-25 22:04:14,380 Prediction: 3 for Product_ID 14
+2024-05-25 22:04:14,893 Prediction: 0 for Product_ID 15
+2024-05-25 22:04:15,429 Prediction: 11 for Product_ID 16
+2024-05-25 22:04:15,430 127.0.0.1 - - [25/May/2024 22:04:15] "POST /predict HTTP/1.1" 200 -
+2024-05-27 13:14:37,254 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-27 13:14:37,255 [33mPress CTRL+C to quit[0m
+2024-05-27 13:14:37,256  * Restarting with stat
+2024-05-27 13:14:38,659  * Debugger is active!
+2024-05-27 13:14:38,664  * Debugger PIN: 247-628-947
+2024-05-27 13:16:27,747 {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 665424ce9add0c122baee297, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-btlxje0-shard-00-00.91fcjua.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-btlxje0-shard-00-00.91fcjua.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1123) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-btlxje0-shard-00-01.91fcjua.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-btlxje0-shard-00-01.91fcjua.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1123) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-btlxje0-shard-00-02.91fcjua.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-btlxje0-shard-00-02.91fcjua.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1123) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>", "clientId": {"$oid": "665424ce9add0c122baee297"}, "remainingTimeMS": 30}
+2024-05-27 13:16:57,877 Error: SSL handshake failed: ac-btlxje0-shard-00-00.91fcjua.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1123) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-btlxje0-shard-00-02.91fcjua.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1123) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),SSL handshake failed: ac-btlxje0-shard-00-01.91fcjua.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1123) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 665424ce9add0c122baee297, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-btlxje0-shard-00-00.91fcjua.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-btlxje0-shard-00-00.91fcjua.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1123) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-btlxje0-shard-00-01.91fcjua.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-btlxje0-shard-00-01.91fcjua.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1123) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-btlxje0-shard-00-02.91fcjua.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('SSL handshake failed: ac-btlxje0-shard-00-02.91fcjua.mongodb.net:27017: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1123) (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2024-05-27 13:16:57,877 127.0.0.1 - - [27/May/2024 13:16:57] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-27 13:17:33,427 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-27
+2024-05-27 13:17:33,428 127.0.0.1 - - [27/May/2024 13:17:33] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-27 14:00:15,291 Error: No data found in counts_products_collection for Product_ID 1 on 2024-05-27
+2024-05-27 14:00:15,291 127.0.0.1 - - [27/May/2024 14:00:15] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-27 15:37:15,832 Prediction: 29 for Product_ID 1
+2024-05-27 15:37:16,341 Prediction: 8 for Product_ID 2
+2024-05-27 15:37:17,003 Prediction: 15 for Product_ID 3
+2024-05-27 15:37:17,515 Prediction: 1 for Product_ID 4
+2024-05-27 15:37:17,994 Prediction: 4 for Product_ID 6
+2024-05-27 15:37:18,673 Prediction: 13 for Product_ID 10
+2024-05-27 15:37:19,205 Prediction: 5 for Product_ID 14
+2024-05-27 15:37:19,671 Prediction: 2 for Product_ID 15
+2024-05-27 15:37:20,130 Prediction: 7 for Product_ID 16
+2024-05-27 15:37:20,130 127.0.0.1 - - [27/May/2024 15:37:20] "POST /predict HTTP/1.1" 200 -
+2024-05-27 17:37:55,523 Prediction: 24 for Product_ID 1
+2024-05-27 17:37:56,018 Prediction: 11 for Product_ID 2
+2024-05-27 17:37:56,553 Prediction: 10 for Product_ID 3
+2024-05-27 17:37:57,016 Prediction: 5 for Product_ID 4
+2024-05-27 17:37:57,491 Prediction: 2 for Product_ID 6
+2024-05-27 17:37:57,985 Prediction: 13 for Product_ID 10
+2024-05-27 17:37:58,494 Prediction: 2 for Product_ID 14
+2024-05-27 17:37:58,974 Prediction: 0 for Product_ID 15
+2024-05-27 17:37:59,483 Prediction: 4 for Product_ID 16
+2024-05-27 17:37:59,484 127.0.0.1 - - [27/May/2024 17:37:59] "POST /predict HTTP/1.1" 200 -
+2024-05-27 18:18:05,223 Prediction: 31 for Product_ID 1
+2024-05-27 18:18:05,712 Prediction: 10 for Product_ID 2
+2024-05-27 18:18:06,198 Prediction: 9 for Product_ID 3
+2024-05-27 18:18:06,718 Prediction: 4 for Product_ID 4
+2024-05-27 18:18:07,191 Prediction: 2 for Product_ID 6
+2024-05-27 18:18:07,719 Prediction: 14 for Product_ID 10
+2024-05-27 18:18:08,169 Prediction: 3 for Product_ID 14
+2024-05-27 18:18:08,748 Prediction: 0 for Product_ID 15
+2024-05-27 18:18:09,250 Prediction: 8 for Product_ID 16
+2024-05-27 18:18:09,251 127.0.0.1 - - [27/May/2024 18:18:09] "POST /predict HTTP/1.1" 200 -
+2024-05-27 19:23:16,308 Prediction: 27 for Product_ID 1
+2024-05-27 19:23:16,812 Prediction: 12 for Product_ID 2
+2024-05-27 19:23:17,319 Prediction: 9 for Product_ID 3
+2024-05-27 19:23:17,835 Prediction: 7 for Product_ID 4
+2024-05-27 19:23:18,361 Prediction: 2 for Product_ID 6
+2024-05-27 19:23:19,121 Prediction: 13 for Product_ID 10
+2024-05-27 19:23:19,632 Prediction: 3 for Product_ID 14
+2024-05-27 19:23:20,289 Prediction: 0 for Product_ID 15
+2024-05-27 19:23:20,843 Prediction: 4 for Product_ID 16
+2024-05-27 19:23:20,844 127.0.0.1 - - [27/May/2024 19:23:20] "POST /predict HTTP/1.1" 200 -
+2024-05-27 19:27:34,189 Prediction: 27 for Product_ID 1
+2024-05-27 19:27:34,680 Prediction: 12 for Product_ID 2
+2024-05-27 19:27:35,177 Prediction: 9 for Product_ID 3
+2024-05-27 19:27:35,669 Prediction: 7 for Product_ID 4
+2024-05-27 19:27:36,260 Prediction: 2 for Product_ID 6
+2024-05-27 19:27:36,774 Prediction: 13 for Product_ID 10
+2024-05-27 19:27:37,330 Prediction: 3 for Product_ID 14
+2024-05-27 19:27:37,802 Prediction: 0 for Product_ID 15
+2024-05-27 19:27:38,291 Prediction: 4 for Product_ID 16
+2024-05-27 19:27:38,291 127.0.0.1 - - [27/May/2024 19:27:38] "POST /predict HTTP/1.1" 200 -
+2024-05-27 20:30:05,526 Prediction: 26 for Product_ID 1
+2024-05-27 20:30:09,138 Prediction: 13 for Product_ID 2
+2024-05-27 20:30:09,669 Prediction: 9 for Product_ID 3
+2024-05-27 20:30:10,179 Prediction: 5 for Product_ID 4
+2024-05-27 20:30:10,792 Prediction: 2 for Product_ID 6
+2024-05-27 20:30:11,346 Prediction: 14 for Product_ID 10
+2024-05-27 20:30:11,903 Prediction: 2 for Product_ID 14
+2024-05-27 20:30:12,404 Prediction: 0 for Product_ID 15
+2024-05-27 20:30:12,927 Prediction: 9 for Product_ID 16
+2024-05-27 20:30:12,928 127.0.0.1 - - [27/May/2024 20:30:12] "POST /predict HTTP/1.1" 200 -
+2024-05-27 21:02:18,942 Prediction: 26 for Product_ID 1
+2024-05-27 21:02:19,501 Prediction: 13 for Product_ID 2
+2024-05-27 21:02:20,080 Prediction: 9 for Product_ID 3
+2024-05-27 21:02:20,615 Prediction: 5 for Product_ID 4
+2024-05-27 21:02:21,131 Prediction: 2 for Product_ID 6
+2024-05-27 21:02:21,674 Prediction: 14 for Product_ID 10
+2024-05-27 21:02:22,171 Prediction: 2 for Product_ID 14
+2024-05-27 21:02:22,714 Prediction: 0 for Product_ID 15
+2024-05-27 21:02:23,219 Prediction: 9 for Product_ID 16
+2024-05-27 21:02:23,219 127.0.0.1 - - [27/May/2024 21:02:23] "POST /predict HTTP/1.1" 200 -
+2024-05-27 21:18:28,064 Prediction: 24 for Product_ID 1
+2024-05-27 21:18:28,562 Prediction: 13 for Product_ID 2
+2024-05-27 21:18:29,063 Prediction: 9 for Product_ID 3
+2024-05-27 21:18:29,515 Prediction: 3 for Product_ID 4
+2024-05-27 21:18:29,958 Prediction: 2 for Product_ID 6
+2024-05-27 21:18:30,485 Prediction: 14 for Product_ID 10
+2024-05-27 21:18:30,961 Prediction: 2 for Product_ID 14
+2024-05-27 21:18:31,476 Prediction: 0 for Product_ID 15
+2024-05-27 21:18:31,967 Prediction: 9 for Product_ID 16
+2024-05-27 21:18:31,968 127.0.0.1 - - [27/May/2024 21:18:31] "POST /predict HTTP/1.1" 200 -
+2024-05-27 21:28:44,201 Prediction: 24 for Product_ID 1
+2024-05-27 21:28:44,698 Prediction: 13 for Product_ID 2
+2024-05-27 21:28:45,235 Prediction: 9 for Product_ID 3
+2024-05-27 21:28:45,738 Prediction: 3 for Product_ID 4
+2024-05-27 21:28:46,246 Prediction: 2 for Product_ID 6
+2024-05-27 21:28:46,747 Prediction: 14 for Product_ID 10
+2024-05-27 21:37:40,771 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-27 21:37:40,772 [33mPress CTRL+C to quit[0m
+2024-05-27 21:37:40,774  * Restarting with stat
+2024-05-27 21:37:42,325  * Debugger is active!
+2024-05-27 21:37:42,329  * Debugger PIN: 247-628-947
+2024-05-27 21:39:05,620 {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 66549ab6f3d516fe0312f326, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-btlxje0-shard-00-00.91fcjua.mongodb.net', 27017) server_type: RSSecondary, rtt: 0.06197497600202021>, <ServerDescription ('ac-btlxje0-shard-00-01.91fcjua.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('SSL handshake failed: ac-btlxje0-shard-00-01.91fcjua.mongodb.net:27017: _ssl.c:1106: The handshake operation timed out (configured timeouts: connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('ac-btlxje0-shard-00-02.91fcjua.mongodb.net', 27017) server_type: RSSecondary, rtt: 0.06694915840092597>]>", "clientId": {"$oid": "66549ab6f3d516fe0312f326"}, "remainingTimeMS": 30}
+2024-05-27 21:39:07,419 Prediction: 23 for Product_ID 1
+2024-05-27 21:40:13,809 Error: HTTPSConnectionPool(host='api.openweathermap.org', port=443): Max retries exceeded with url: /data/2.5/weather?lat=13.91301&lon=100.49883&appid=8996956bada63816da0df68bbf3a1c84&units=metric (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1123)')))
+2024-05-27 21:40:13,810 127.0.0.1 - - [27/May/2024 21:40:13] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-05-27 21:42:25,680 Prediction: 23 for Product_ID 1
+2024-05-27 21:42:26,194 Prediction: 13 for Product_ID 2
+2024-05-27 21:42:26,746 Prediction: 9 for Product_ID 3
+2024-05-27 21:42:27,260 Prediction: 4 for Product_ID 4
+2024-05-27 21:42:27,729 Prediction: 2 for Product_ID 6
+2024-05-27 21:42:28,255 Prediction: 13 for Product_ID 10
+2024-05-27 21:42:28,763 Prediction: 2 for Product_ID 14
+2024-05-27 21:42:29,254 Prediction: 0 for Product_ID 15
+2024-05-27 21:42:29,748 Prediction: 10 for Product_ID 16
+2024-05-27 21:42:29,748 127.0.0.1 - - [27/May/2024 21:42:29] "POST /predict HTTP/1.1" 200 -
+2024-05-27 21:46:19,173 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-27 21:46:19,173 [33mPress CTRL+C to quit[0m
+2024-05-27 21:46:19,174  * Restarting with stat
+2024-05-27 21:46:20,598  * Debugger is active!
+2024-05-27 21:46:20,601  * Debugger PIN: 247-628-947
