@@ -1,3 +1,4 @@
+Flask==2.0.1
 altair==5.0.1
 argon2-cffi==20.1.0
 astroid==2.5.6
