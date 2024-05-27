@@ -82,7 +82,6 @@ pyrsistent==0.17.3
 python-dateutil==2.8.2
 pytz==2023.3
 pytz-deprecation-shim==0.1.0.post0
-pywin32==300
 pywinpty==0.5.7
 pyzmq==22.0.3
 qtconsole==5.1.0
